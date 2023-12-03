@@ -3,8 +3,8 @@ course_name: Deep Learning for Data Science (DL4DS)
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Spring 2024"
 
-baseurl: "/jekyll-course-website-template" # the subpath of your site, e.g. /blog/
-url: "http://trgardos.github.io/" # the base hostname & protocol for your site
+baseurl: "/sp2024" # the subpath of your site, e.g. /blog/
+url: "http://dl4ds.github.io/sp2024" # the base hostname & protocol for your site
 
 schoolname: "Boston University"
 schoolurl: "https://bu.edu"
