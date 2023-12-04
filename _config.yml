@@ -1,22 +1,23 @@
 # Site settings
 course_name: Deep Learning for Data Science (DL4DS)
-course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
+course_description: "In this course students will gain an understanding of the fundamentals in Deep Learning and then apply those concepts in exercises and applications in python. You'll learn the foundations of training and inference, then become familiar with canonical network architectures including convolutional neural networks and transformers. We'll look at generative pre- trained Transformer models and pros and cons of prompt engineering versus finetuning. Finally, students will be able to apply many of the techniques they learned in a final class project."
 course_semester: "Spring 2024"
 
 baseurl: "/sp2024" # the subpath of your site, e.g. /blog/
-url: "http://dl4ds.github.io/sp2024" # the base hostname & protocol for your site
+url: "http://dl4ds.github.io" # the base hostname & protocol for your site
 
-schoolname: "Boston University"
-schoolurl: "https://bu.edu"
-twitter_username: username 
+schoolname: "Boston University Faculty for Computing and Data Science"
+schoolurl: "https://www.bu.edu/cds-faculty/"
+twitter_username: trgardos 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    665 Commonwealth Avenue
+    Boston, MA 02215
+    USA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
+google_analytics: G-J2ZBMYKFT8
 
 ### Do not change the followings unless you know what you are doing ###
 
