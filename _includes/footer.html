@@ -51,6 +51,15 @@
   </li>
 {% endif %}
 
+{% if site.github_repo %}
+<li>
+  <a href="{{ site.github_repo }}">
+    <i class="fab fa-github" style="color:gray"></i> GitHub Repo
+  </a>
+</li>
+{% endif %}
+
+<!-- Don't need the school url twice on the same page
           {% if site.schoolurl %}
   <li>
     <a href="{{site.schoolurl}}">
@@ -58,6 +67,7 @@
     </a>
   </li>
 {% endif %}
+-->
 
 
 
