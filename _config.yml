@@ -9,6 +9,8 @@ url: "http://dl4ds.github.io" # the base hostname & protocol for your site
 schoolname: "Boston University Faculty for Computing and Data Science"
 schoolurl: "https://www.bu.edu/cds-faculty/"
 twitter_username: trgardos 
+google_scholar_id: tY3MyCgAAAAJ
+linkedin_username: thomas-gardos
 
 address: |
     665 Commonwealth Avenue

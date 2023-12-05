@@ -1,19 +1,28 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Thomas Gardos
+    profile_pic: /_images/pp/gardos.jpg
+    webpage: https://www.bu.edu/cds-faculty/profile/thomas-gardos/
+    email: tgardos@bu.edu
+
+#  - name: Albus Dumbledore
+#    profile_pic: /_images/pp/dumbledore.jpg
+#    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
+#  - name: Minerva McGonagall
+#    profile_pic: /_images/pp/mcgonagall.jpg
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: The AI Terrier Tutor
+    profile_pic: /_images/pp/Terrier_Logo.png
+    webpage: https://chat.openai.com/g/g-GcuPjBlNb-dl4ds-terrier-tutor
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+#  - name: Harry Potter
+#    profile_pic: /_images/pp/potter.jpg
+#    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+#  - name: Hermione Granger
+#    profile_pic: /_images/pp/granger.jpg
+#    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+
+#  - name: Ron Weasley
+#    profile_pic: /_images/pp/weasley.jpg
+#    webpage: https://en.wikipedia.org/wiki/Ron_Weasley

@@ -1,4 +1,5 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Register to our [piazza page](https://piazza.com/class) to see course notifications
+and get email notifications.

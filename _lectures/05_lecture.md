@@ -1,9 +1,10 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
+date: 2024-02-01T15:30:00-5:00
+title: Lecture 05
 tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/boston-univ-small.gif
+hide_from_announcments: true
 links: 
     - url: /static_files/presentations/lec.zip
       name: notes
