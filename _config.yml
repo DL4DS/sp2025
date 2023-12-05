@@ -1,6 +1,6 @@
 # Site settings
 course_name: Deep Learning for Data Science (DL4DS)
-course_description: "In this course students will gain an understanding of the fundamentals in Deep Learning and then apply those concepts in exercises and applications in python. You'll learn the foundations of training and inference, then become familiar with canonical network architectures including convolutional neural networks and transformers. We'll look at generative pre- trained Transformer models and pros and cons of prompt engineering versus finetuning. Finally, students will be able to apply many of the techniques they learned in a final class project."
+course_description: "In this course we will dive into Deep Learning. We'll balance important theoretical concepts with hands on network training and applications using modern deep learning python frameworks. We'll explore numerous network architectures like CNNs, transformers, and the rapidly developing state-of-the-art of large pre-trained foundation models. You'll have the chance to apply what you've learned in a final project."
 course_semester: "Spring 2024"
 
 baseurl: "/sp2024" # the subpath of your site, e.g. /blog/
@@ -9,12 +9,12 @@ url: "http://dl4ds.github.io" # the base hostname & protocol for your site
 schoolname: "Boston University Faculty for Computing and Data Science"
 schoolurl: "https://www.bu.edu/cds-faculty/"
 twitter_username: trgardos 
-google_scholar_id: tY3MyCgAAAAJ
+# google_scholar_id: tY3MyCgAAAAJ
 linkedin_username: thomas-gardos
+github_repo: https://github.com/DL4DS/sp2024
 
 address: |
-    665 Commonwealth Avenue
-    Boston, MA 02215
+    Boston, MA
     USA
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
