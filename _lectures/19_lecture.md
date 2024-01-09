@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-28T15:30:00-5:00
-title: Lecture 19
+title: 19 - <i>Tentative:</i> "Cognitive Architectures", RAG, Chatbots
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
@@ -14,5 +14,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- TBD

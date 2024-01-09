@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-26T15:30:00-5:00
-title: Lecture 18
+title: 18 - <i>Tentative:</i> Fine Tuning, Transfer Learning
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true

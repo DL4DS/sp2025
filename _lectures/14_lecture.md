@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-05T15:30:00-5:00
-title: Lecture 14
+title: 14 - Midterm Presentations
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
@@ -14,5 +14,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- TBD
