@@ -77,9 +77,13 @@ To be added.
 - A final project where students apply image and video data analysis techniques to a real-world dataset
 
 ## Course Assessment
-- Homework Assignments: tbd
-- Final Project: tbd
-- Participation: tbd
+
+- Final Project: 45%
+- Mid-term Project/Competition: 25%
+- Jupyter Notebooks: 15%
+- Homeworks: 10%
+- Class Participation/Attendance: 5%
+
 
 ## Final Project
 TBD: more details will be provided here.
