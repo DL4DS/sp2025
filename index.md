@@ -160,7 +160,7 @@ Students shall:<br>
 5. Use AI tools wisely and intelligently, aiming to deepen understanding of subject matter and to support learning.
 
 As these generative assistive tools become widely deployed and pervasive, we believe they will become integral
-to most people's workflow. However, for foundational concepts, as our taught in this course, it is in your
+to most people's workflow. However, for foundational concepts, as are taught in this course, it is in your
 best interest and worth it to struggle some in creating your answers and solutions. It is just as important
 to learn what doesn't work, and which paths are dead ends, as it is to learn what does work. When you are posed
 with new and unique problems, that intuition you develop will be vital in choosing directions. More pragmatically,
