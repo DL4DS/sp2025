@@ -78,12 +78,43 @@ There are places you can look to help give you ideas:
    [Papers with Code](https://paperswithcode.com/datasets)
 4. Lot of applications are posted on X/Twitter, Reddit, LinkedIn, etc.
 
+### Project Ideas
+
 In case it is helpful, here are some project ideas you can also consider:
-1. Class AI Tutor
-2. Teacher's Assistant
-3. NAACP/WGBH bias detection
-4. Herbaria Foundation Model
-5. _more to come_
+
+* **Class AI Tutor** *(LLM-based assistant)*
+   * This topic can incorporate multiple student projects.
+   * Enhance the current primitive class AI tutor with a customized tutor built on a "cognitive architecture"
+     framework using langchain or llamaindex, to incorporate things like retrieval augmentation based on course
+     materials. Have the tutor be socratic in style (e.g. not directly give answers but guide the user on how to
+     arrive at the answer) and reference course material and lectures in responses.
+   * Experiment and evaluate with different foundation models.
+   * In addition to the core functionality, it would be helpful to have a data collection/model improvement mode
+     where at a minimum the user can provide feedback on how helpful the response is. This can take multiple forms.
+      * Simple thumbs up or thumbs down.
+      * A more sophisticated data collection mode where the user is presented with two responses side by side and they
+        can then pick which one they find more helpful.
+   * Use the feedback data to fine-tune the model.
+   * An initial draft at a customized AI tutor is this [GitHub repo](https://github.com/DL4DS/dl4ds_tutor), currently
+     as a [Pull Request](https://github.com/DL4DS/dl4ds_tutor/pull/1).
+* **Teacher's AI Assistant** *(LLM-based assistant)*
+   * This would complement the student-facing AI tutor with an instructor-facing assistant that would give feedback
+     to the instructor on what topics the student are asking about and which ones the students might be struggling with.
+   * For both this and the above assistant, build in privacy-preserving features as necessary, so students have control
+     over privacy should they choose. The feedback to the instructor would primarily be aggregrated with no personal
+     identifying information. Work out privacy policy so that students could opt to share identity and instructors could
+     be better prepared to work with individual students.
+* **CDS Curriculum AI Assistant** *(LLM-based Assistant)*
+   * Build an LLM-based assistant that could help students navigate the CDS curriculum with tasks such as helping to
+     choose electives based on students' interests and priorities.
+   * Possibly provide feedbac to CDS administration in a privacy preserving way.
+* **CDS Building Recycling Advisor** *(Computer Vision)*
+   * A computer vision based system that directs a person as to which bin an item should be placed.
+   * Establish baselines on waste/recycle streams, contamination rates so that if/when prototypes are deployed one
+     can gauge any changes/improvements.
+* **NAACP/WGBH bias detection** *(Computer Vision, NLP)*
+* **Herbaria Foundation Model** *(Computer Vision, OCR, Multimodal)*
+* _more to come_
 
 We'll expand on each of these later.
 
