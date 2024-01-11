@@ -1,5 +1,5 @@
 ---
-date: 2023-12-03T19:16:00+3:30
+date: 2023-12-03T19:16:00-5:00
 ---
 This course web site is under active construction. Check back regularly
 for updates.
