@@ -12,7 +12,7 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- SCC Resources: [https://dl4ds.github.io/sp2024/materials/](https://dl4ds.github.io/sp2024/materials/)
+- [SCC Resources](https://dl4ds.github.io/sp2024/materials/)
 - [Introduction to Pytorch](https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html)
 - [What's a Tensor? - Dan Fleisch](https://youtu.be/f5liqUk0ZTw?si=2qSu9qCLHn4qXZi1)
 - [Pytorch Internals - Edward Z. Yang ](http://blog.ezyang.com/2019/05/pytorch-internals/)
