@@ -8,11 +8,7 @@ lecture topics, problem sets and the mid-term and final projects."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: /static_files/presentations/slides.zip
+    - url: /static_files/presentations/01_sp2024_v02.pdf
       name: slides
 ---
 **Suggested Readings:**
