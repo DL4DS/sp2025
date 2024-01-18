@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Lectures:** Tuesdays and Thursdays, 3:30pm -- 4:15pm<br>
+**Lectures:** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
 **Location:** CAS 208
 
 **Discussion Session I:** Wednesdays, 11:15am -- 12:05pm<br>
