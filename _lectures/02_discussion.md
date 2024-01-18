@@ -12,3 +12,6 @@ links:
       name: slides
 ---
 **Suggested Readings:**
+* [Fundamentals of Autograd](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html)
+* [Overview of PyTorch Autograd Engine](https://pytorch.org/blog/overview-of-pytorch-autograd-engine/)
+* [Pytorch Internals - Edward Z. Yang ](http://blog.ezyang.com/2019/05/pytorch-internals/)
