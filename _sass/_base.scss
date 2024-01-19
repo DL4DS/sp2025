@@ -290,6 +290,10 @@ a.tosu {
         border-bottom: none;
     }
 
+    .table-row-discussion {
+        background-color: #edecec;
+    }
+
     .table-row-assignment {
         background-color: #d9edf7;
     }
@@ -300,6 +304,10 @@ a.tosu {
 
     .table-row-exam {
         background-color: #f2dede;
+    }
+
+    .table-row-raw_event {
+        background-color: #eeecf9;
     }
 
     .col-1 {
@@ -455,6 +463,22 @@ a.tosu {
   }
 
   .lecture-container {
+  
+    display: flex;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    .thumbnail {
+      width: 120px;
+    }
+    
+    .content {
+      flex: 1;
+    }
+  }
+
+  .discussion-container {
   
     display: flex;
     width: 100%;
