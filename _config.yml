@@ -41,6 +41,8 @@ collections:
         output: true
     lectures:
         output: true
+    discussions:
+        output: true
     assignments:
         output: true
     announcements:

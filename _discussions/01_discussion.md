@@ -1,5 +1,5 @@
 ---
-type: Discussion
+type: discussion
 date: 2024-01-24W11:15:00-12:05&&15:35:00-16:25
 title: Discussion_01 - Environment Setup and an Intro to Pytorch, Tensors, and Tensor Operations
 tldr: "Setting up SCC, virtual environments, and an intro to Pytorch, Tensors, and Tensor Operations. Will also go over on how to run the dl4ds_tutor on SCC."
