@@ -10,6 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/presentations/01_sp2024_v02.pdf
       name: slides
+    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/release/nbs01/1_1_BackgroundMathematics.ipynb
+      name: Jupyter Notebook
 ---
 **Suggested Readings:**
 - UDL Chapter 1
