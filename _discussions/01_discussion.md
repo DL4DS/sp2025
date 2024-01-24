@@ -6,9 +6,7 @@ tldr: "Setting up SCC, virtual environments, and an intro to Pytorch, Tensors, a
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: /static_files/presentations/slides.zip
+    - url: /static_files/discussion_slides/00_discussion.pdf
       name: slides
 ---
 **Suggested Readings:**

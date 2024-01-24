@@ -17,8 +17,8 @@ layout: home
 * email: tgardos \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Xavier Thomas
-* Office Hours: TBD
-* Office Hours Location: TBD
+* Office Hours: Mondays, 3:00pm -- 5:00pm
+* Office Hours Location: CDS, 16th Floor
 * email: xthomas \<at\> bu \<dot\> edu
 
 ## Course Description
