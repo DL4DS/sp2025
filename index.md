@@ -13,7 +13,7 @@ layout: home
 
 **Instructor:** Thomas Gardos
 * Office: CDS 1623
-* Office Hours: TBD
+* Office Hours: On demand. E-mail for appointment.
 * email: tgardos \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Xavier Thomas
