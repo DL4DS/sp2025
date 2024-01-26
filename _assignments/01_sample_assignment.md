@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2024-06-01T15:30:00-5:00
-title: 'Assignment #1 - Sample Assignment'
+title: 'Sample Assignment -- Ignore'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
