@@ -8,6 +8,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/03_shallow_networks_v02.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_hiqqtfqp
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 3
