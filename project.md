@@ -3,6 +3,17 @@ layout: page
 title: Project
 permalink: /project/
 ---
+
+**Table of Contents:**<br>
+* [Project Categories](#project-categories)
+* [Project Topics](#project-topics)
+  * [Project Ideas](#project-ideas)
+* [Project Deliverables](#project-deliverables)
+  * [Proposal -- Feb 16](#proposal)
+  * [Midpoint Checkin -- Mar 29](#mid-project-checkin)
+  * [Video -- Apr 30](#video)
+  * [Final Report -- Apr 30](#final-report-and-presentation)
+
 Here's your chance to apply the deep learning techniques you learn in this 
 class to real world applications.
 
@@ -156,16 +167,31 @@ Of course you can pursue any other ideas you have as well!
 ### Proposal
 **Deadline:** February 16, Friday 11:59 PM
 
-Submission will be on GradeScope. The information requested will be:
-* Project Tilte
-* Project Category
-* Team Members 
-* What is the problem you are solving or application you are developing?
-* What dataset will you be using? Does it exist already? What dataset preparation will be needed?
-* What algorithms and models do you plan to use? Do they exist already?
-  It's ok if the solution evolves as you learn more.
-* What papers and references are relevant to your project.
-* What kind of results and outcome do you expect? How will you evaluate them?
+Here's a proposal template [pdf](/sp2024/static_files/project/proj_prop.pdf) and the source
+[$$\LaTeX$$](/sp2024/static_files/project/proj_prop.tex).
+
+The proposal format is:
+* **Project Title**
+* **Abstract**
+* **Team Members** (From one to three people.)
+* **Introduction:** Give the motivation for the problem you are solving or application
+  you are developing and why it is worthwhile.
+* **Related Work:** Results from initial literature search.
+* **Proposed Work:** What are you going to do and how are you going to do it?
+* **Datasets:** What dataset will you be using? Does it exist already? What dataset preparation will be needed?
+* **Evaluation:** How are you going to evaluate your results?
+* **Timeline:** Approximate time line for the project over the course of the semester.
+* **Conclusion:** You can recap your proposal.
+* **References:** References for your citations.
+
+More explanation of each section is in the template.
+
+Submission will be on GradeScope, but feel free to share early draft with the instructor
+to get early feedback.
+
+If you don't have a $$\LaTeX$$ authoring environment set up, we recommend
+the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
+extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 
 ### Mid-Project Checkin
