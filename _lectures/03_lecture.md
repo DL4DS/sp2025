@@ -2,7 +2,8 @@
 type: lecture
 date: 2024-01-25T15:30:00-5:00
 title: 03 - Shallow Networks
-tldr: "Short text to discribe what this lecture is about."
+tldr: "In this lecture we consider networks with one layer of hidden units
+and explore their representational power."
 thumbnail: /_images/thumbnails/ds598-lecture-03.png
 hide_from_announcments: true
 links: 
