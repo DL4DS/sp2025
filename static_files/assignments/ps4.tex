@@ -1,0 +1,60 @@
+\documentclass[11pt, oneside]{article}   	% use "amsart" instead of "article" for AMSLaTeX format
+\usepackage{geometry}                		% See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   		% ... or a4paper or a5paper or ... 
+%\geometry{landscape}                		% Activate for rotated page geometry
+\usepackage[parfill]{parskip}    	% Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}				% Use pdf, png, jpg, or eps§ with pdflatex; use eps in DVI mode
+								% TeX will automatically convert eps --> pdf in pdflatex		
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%SetFonts
+
+%SetFonts
+
+
+\title{Problem Set 4 -- Deep Neural Networks}
+\author{DS598 B1 -- DL4DS}
+\date{Spring, 2024}							% Activate to display a given date or no date
+
+\begin{document}
+%\vspace*{-20pt}
+\maketitle
+
+\textbf{Problem 4.4\footnotemark} Write out the vector and matrix equations for
+a deep neural network that takes
+\(D_i = 5\) inputs, \(D_o = 4\) outputs and has three hidden layers of sizes
+\(D_1 = 20\), \(D_2 = 10\), and \(D_3 = 7\), respectively in both the forms of
+equations 4.15 and 4.16. What are the sizes of each weight matrix
+\(\mathbf{\Omega_\bullet}\) and
+bias vector \(\mathbf{\beta_\bullet}\)?
+
+\footnotetext{Problem numbers correspond to chapter and problem numbers in the book.}
+
+\vspace{1cm}
+
+\textbf{Problem 4.5} 
+Consider a deep neural network with \(D_i = 5\) inputs, \(D_o = 1\) output,
+and \(K = 20\) hidden layers containing \(D = 30\) hidden units each. What is
+the depth of this network? What is the width?
+
+\vspace{1cm}
+
+\textbf{Problem 4.6} Consider a network with \(D_i = 1\) input, \(D_o = 1\)
+output, \(K = 10\) layers, with \(D = 10\) hidden units in each. Would the
+number of weights increase more if we increased the depth by
+one or the width by one? Provide your reasoning.
+
+\vspace{1cm}
+
+\textbf{Problem 4.8 -- Optional} \textit{This is a good exercise to try from the book.
+the solution is provided in the student solution manual. Don't turn in.}
+
+\vspace{1cm}
+
+\textbf{Problem 4.10} Consider a deep neural network with a single input, a
+single output, and \(K\) hidden layers, each of which contains \(D\) hidden
+units. Show that this network will have a total
+of \( 3D + 1 + (K - 1)D(D + 1)\) parameters.
+
+\end{document}  
