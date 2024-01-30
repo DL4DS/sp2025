@@ -1,8 +1,8 @@
 ---
 type: discussion
 date: 2024-01-31W11:15:00-12:05&&15:35:00-16:25
-title: Discussion_02 - Derivatives, Autograd, and Computational Graphs in Pytorch
-tldr: "Refresher on Derivatives. Fundamentals on Autograd and Computational Graphs in Pytorch."
+title: Discussion_02 - Autograd, and Computational Graphs in Pytorch. Intro to Model Building in Pytorch.
+tldr: "Fundamentals of Autograd and Computational Graphs in Pytorch. Introduction to Defining a Neural Network in Pytorch (Basics)"
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
 links: 
@@ -15,3 +15,4 @@ links:
 * [Fundamentals of Autograd](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html)
 * [Overview of PyTorch Autograd Engine](https://pytorch.org/blog/overview-of-pytorch-autograd-engine/)
 * [Pytorch Internals - Edward Z. Yang ](http://blog.ezyang.com/2019/05/pytorch-internals/)
+* [Builders' guide (d2l.ai)](https://d2l.ai/chapter_builders-guide/index.html)
