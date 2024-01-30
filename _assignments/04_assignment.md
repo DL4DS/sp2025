@@ -10,4 +10,4 @@ due_event:
     date: 2024-02-06T23:59:00-5:00
     description: 'PS4 due'
 ---
-Problem set 4 -- Deep Networks.
+Problem set 4 -- Deep Networks. Turn in on GradeScope.
