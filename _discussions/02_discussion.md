@@ -6,10 +6,8 @@ tldr: "Fundamentals of Autograd and Computational Graphs in Pytorch. Introductio
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: /static_files/presentations/slides.zip
-      name: slides
+    - url: static_files/discussion_slides/01_autograd.ipynb
+      name: 01_autograd.ipynb
 ---
 **Suggested Readings:**
 * [Fundamentals of Autograd](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html)
