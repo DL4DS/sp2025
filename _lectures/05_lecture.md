@@ -13,6 +13,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/05_loss_functions_v2.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_k2t4xjkd
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 5
