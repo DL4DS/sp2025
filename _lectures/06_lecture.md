@@ -2,15 +2,14 @@
 type: lecture
 date: 2024-02-06T15:30:00-5:00
 title: 06 - Fitting Models
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+tldr: "In this lecture we look at different ways minimizing the loss function
+for models given a training dataset. We'll formally define gradient descent,
+then show the advantages of stochastic gradient descent and then finally see
+how momentum and normalized gradients (ADAM) can improve model training farther."
+thumbnail: /_images/thumbnails/ds598-lecture-06.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/06_fitting_models_v2.pdf
       name: slides
 ---
 **Suggested Readings:**
