@@ -5,10 +5,8 @@ title: Discussion_02 - Autograd, and Computational Graphs in Pytorch. Intro to M
 tldr: "Fundamentals of Autograd and Computational Graphs in Pytorch. Introduction to Defining a Neural Network in Pytorch (Basics)"
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
-links: 
-    - url: /static_files/discussion_slides/01_autograd.ipynb
-      name: 01_autograd.ipynb
 ---
+**Notebook:** [01_autograd.ipynb](https://github.com/DL4DS/sp2024_notebooks/blob/main/discussion/01_autograd.ipynb)    
 **Suggested Readings:**
 * [Fundamentals of Autograd](https://pytorch.org/tutorials/beginner/introyt/autogradyt_tutorial.html)
 * [Overview of PyTorch Autograd Engine](https://pytorch.org/blog/overview-of-pytorch-autograd-engine/)

@@ -9,6 +9,7 @@ links:
     - url: /static_files/discussion_slides/00_discussion.pdf
       name: slides
 ---
+**Notebook:** [00_fundamentals.ipynb](https://github.com/DL4DS/sp2024_notebooks/blob/main/discussion/00_fundamentals.ipynb)    
 **Suggested Readings:**
 - [SCC Resources](https://dl4ds.github.io/sp2024/materials/)
 - [Introduction to Pytorch](https://pytorch.org/tutorials/beginner/introyt/tensors_deeper_tutorial.html)
