@@ -1,17 +1,17 @@
 ---
 type: lecture
 date: 2024-02-08T15:30:00-5:00
-title: 07 - Gradients
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+title: 07a - Gradients and Backpropagation
+tldr: "In this lecture we show how to efficienctly calculate gradients over
+more complex functions like deep neural networks using backpropagation. We
+also show an example simple implementation in the accompanying Jupyter notebook."
+thumbnail: /_images/thumbnails/ds598-lecture-07a.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/07a_gradients_v02.pdf
       name: slides
+    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/lecture/7_Backprop_with_Micrograd_lite_pt1.ipynb
+      name: jupyter notebook
 ---
 **Suggested Readings:**
 - UDL Sections 7.1 - 7.4
