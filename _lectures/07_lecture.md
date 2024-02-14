@@ -12,6 +12,12 @@ links:
       name: slides
     - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/lecture/7_Backprop_with_Micrograd_lite_pt1.ipynb
       name: jupyter notebook
+    - url: https://mymedia.bu.edu/media/t/1_qsg5byuq
+      name: Lecture Part 1 - Scalar Gradient Descent
+    - url: https://mymedia.bu.edu/media/t/1_7skeo5p5
+      name: Lecture Part 2 - Review Jupyter Notebook
+    - url: https://mymedia.bu.edu/media/t/1_0j9e72b7
+      name: Lecture Part 3 - Matrix Gradient Descent
 ---
 **Suggested Readings:**
 - UDL Sections 7.1 - 7.4
