@@ -6,3 +6,6 @@ tldr: "Closer look into how to handle data in Pytorch. With examples on how to c
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
 ---
+
+**Github Link:** [disc4](https://github.com/DL4DS/sp2024_notebooks/tree/main/discussion/disc4)    
+**Google Drive:** [disc4](https://drive.google.com/drive/folders/1nzbhyXiRTkExdYN2gCWygzmDswpBYaFS?usp=sharing)
