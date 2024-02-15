@@ -1,17 +1,14 @@
 ---
 type: lecture
-date: 2024-02-13T15:30:00-5:00
-title: 08 - Initialization
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+date: 2024-02-15T15:30:00-5:00
+title: 08 - Measuring Performance
+tldr: "We look at measuring model training performance, the importance of test
+sets as well as how noise, bias and variance play a role in training outcomes."
+thumbnail: /_images/thumbnails/ds598-lecture-08.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/08_measuring_performance.pdf
       name: slides
 ---
 **Suggested Readings:**
-- UDL Sections 7.5 - 7.6
+- UDL Chapter 8
