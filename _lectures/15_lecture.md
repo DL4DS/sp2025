@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-07T15:30:00-5:00
-title: 15 - Midterm Presentations
+title: "Tentative: Midterm Presentations"
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true

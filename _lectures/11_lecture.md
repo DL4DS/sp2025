@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-22T15:30:00-5:00
-title: 11 - Convolutional Neural Networks
+date: 2024-02-29T15:30:00-5:00
+title: 11 - Residual Networks
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
