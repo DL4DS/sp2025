@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-27T15:30:00-5:00
-title: 12 - Residual Networks
+date: 2024-03-05T15:30:00-5:00
+title: 12 - Transformers
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
@@ -14,4 +14,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- UDL Chapter 11
+- UDL Chapter 12

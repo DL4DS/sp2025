@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-02-20T15:30:00-5:00
-title: 10 - Regularization
+date: 2024-02-27T15:30:00-5:00
+title: 10 - Convolutional Neural Networks
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
@@ -14,4 +14,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- UDL Chapter 9
+- UDL Chapter 10
