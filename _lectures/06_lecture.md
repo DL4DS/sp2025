@@ -13,6 +13,8 @@ links:
       name: slides
     - url: https://mymedia.bu.edu/media/t/1_5kbu6znm
       name: lecture recording
+    - url: https://mymedia.bu.edu/media/t/1_tpeonnx5
+      name: lecture recording part 2
 ---
 **Suggested Readings:**
 - UDL Chapter 6
