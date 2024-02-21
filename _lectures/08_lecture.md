@@ -9,6 +9,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/08_measuring_performance.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_tpvohig1
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 8
