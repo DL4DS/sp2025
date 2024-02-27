@@ -2,16 +2,14 @@
 type: lecture
 date: 2024-02-27T15:30:00-5:00
 title: 10 - Convolutional Neural Networks
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+tldr: "We cover 1D and 2D convolutional neural networks along with subsampling and upsampling
+operations."
+thumbnail: /_images/thumbnails/ds598-lecture-10.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/10_convolutional_networks.pdf
       name: slides
+
 ---
 **Suggested Readings:**
 - UDL Chapter 10

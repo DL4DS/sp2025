@@ -2,7 +2,7 @@
 
 __Acknowledgements__
 
-This website is built with [Jekyll](https://jekyllrb.com/) on hosted on
+This website is built with [Jekyll](https://jekyllrb.com/) hosted on
 [GitHub Pages](https://pages.github.com/). The Jekyll template is derived from
 [jekyll-course-website-template](https://github.com/kazemnejad/jekyll-course-website-template)
 which in turn is based on [svmiller / course-website](https://github.com/svmiller/course-website).
