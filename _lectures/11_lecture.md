@@ -11,5 +11,8 @@ links:
     - url: /static_files/lectures/11_residual_networks.pdf
       name: slides
 ---
+Unfortunately the lecture recording cut off after 1 minute. I will try to re-record it
+at some point.
+
 **Suggested Readings:**
 - UDL Chapter 11
