@@ -10,6 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/11a_recurrent_networks_v2.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_6mp1tttq
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 11
