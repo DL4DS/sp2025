@@ -2,16 +2,16 @@
 type: lecture
 date: 2024-03-05T15:30:00-5:00
 title: 12 - Transformers
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+tldr: "In this lecture we cover the transformer architecture, starting with the
+motivation that required a new type of model, the concept and implementation of
+self-attention and then the full transformer architecture for encoder, decoder
+and encoder-decoder type models."
+thumbnail: /_images/thumbnails/ds598-lecture-12.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/12_transformers_v3_export.pdf
       name: slides
 ---
 **Suggested Readings:**
 - UDL Chapter 12
+- Optional [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
