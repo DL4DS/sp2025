@@ -9,7 +9,7 @@ thumbnail: /_images/thumbnails/ds598-lecture-13.png
 hide_from_announcments: true
 links: 
     - url: /static_files/lectures/12_transformers_part2_v2.pdf
-      name: slides to be added
+      name: slides
 ---
 **Suggested Readings:**
 - UDL Chapter 12
