@@ -195,7 +195,7 @@ the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Y
 extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 
-### Mid-Project Checkin
+### Mid-Point Check-In
 **Deadline:** March 31, Sunday 11:59 PM
 
 Prepare an update on your project status.
