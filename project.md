@@ -189,17 +189,32 @@ More explanation of each section is in the template.
 Submission will be on GradeScope, but feel free to share early draft with the instructor
 to get early feedback.
 
-If you don't have a $$\LaTeX$$ authoring environment set up, we recommend
+If you don't have a $$\LaTeX$$ authoring environment set up, we recommend using
+[Overleaf](https://overleaf.com) or
 the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop)
 extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 
 ### Mid-Project Checkin
-**Deadline:** March 29, Friday 11:59 PM
+**Deadline:** March 31, Sunday 11:59 PM
 
-Provide a status update on the project.
+Prepare an update on your project status.
 
-More instructions to come.
+For the format, update your project proposal with the additional information you have learned since making the proposal.
+
+If you didn't previously use the [LaTeX template](https://dl4ds.github.io/sp2024/static_files/project/proj_prop.tex),
+we highly recommend you do, and make sure you have content for each of the sections. Feel free to revise any content
+from your original proposal to make the update more coherent.
+
+Ideally, at this point you have:
+
+1. Updated or refined your problem statement based on any learnings so that it is more aligned with your interests or objectives and perhaps more feasible.
+2. Updated your dataset choices and performed some initial exploratory data analysis to better understand your dataset(s).
+3. Updated your literature and repo survey to indicate the most relevant references and source repos.
+4. Defined and trained some initial, perhaps greatly simplified, models to start getting a sense of how they may perform on your dataset towards your problem.
+5. Created a github repo where you are collecting your work so far. The repo doesn't have to be clean and well-documented at this point, but it's not a bad idea to start filling in the top-level README with some description and any learnings or experiments you have done so far.
+
+You don't necessarily have to cover all these items completely (hence the word "Ideally"), but you are highly encouraged to show some progress on each item.
 
 ### Video
 **Deadline:** April 30, Tuesday 11:59 PM
