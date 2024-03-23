@@ -10,6 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/13_transformers_part2_v2.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_m9hhz175
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 12
