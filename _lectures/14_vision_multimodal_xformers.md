@@ -7,7 +7,7 @@ survey of three papers."
 thumbnail: /_images/thumbnails/ds598-lecture-14.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/13_vision_tranformers_v2.pdf
+    - url: /static_files/lectures/14_vision_tranformers_v2.pdf
       name: slides
 ---
 **Suggested Readings:**

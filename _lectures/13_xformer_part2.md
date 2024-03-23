@@ -8,7 +8,7 @@ then discuss scaling to large contexts and then tokenization and embedding."
 thumbnail: /_images/thumbnails/ds598-lecture-13.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/12_transformers_part2_v2.pdf
+    - url: /static_files/lectures/13_transformers_part2_v2.pdf
       name: slides
 ---
 **Suggested Readings:**
