@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-03-21T15:30:00-5:00
-title: 14 -- Vision Transformers
+title: 15 -- Vision Transformers
 tldr: "In this lecture we talk about ways to improve LLM performance short
 of retraining or finetuning. We cover more sophisticated prompt strategies,
 retrieval augmentation and cognitive architectures building systems and agents
