@@ -1,18 +1,15 @@
 ---
 type: lecture
 date: 2024-03-26T15:30:00-5:00
-title: 18 - <i>Tentative:</i> Fine Tuning, Transfer Learning
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+title: 16 - Parameter Efficient Fine Tuning
+tldr: "In this lecture we'll do a quick review of full model fine tuning
+then review the parameter efficient finetuning techniques Low Rank Adaptation and
+Prompt Tuning.,"
+thumbnail: /_images/thumbnails/ds598-peft.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/16_PEFT_of_LLMs_v2.pdf
       name: slides
 ---
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+References are in the lecture slides.
