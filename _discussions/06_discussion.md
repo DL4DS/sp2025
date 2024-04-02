@@ -7,4 +7,4 @@ thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
 ---
 
-**Github Link:** to be added
+**Github Link:** [disc6](https://github.com/DL4DS/sp2024_notebooks/tree/main/discussion/disc6)
