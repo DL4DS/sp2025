@@ -14,4 +14,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-- UDL Chapter 19
+- TBD
