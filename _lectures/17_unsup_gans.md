@@ -11,6 +11,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/17_unsup_learning_gan_v2_1.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_11s31rno
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapters 14 and 15
