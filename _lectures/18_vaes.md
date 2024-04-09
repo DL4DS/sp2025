@@ -2,7 +2,11 @@
 type: lecture
 date: 2024-04-09T15:30:00-5:00
 title: 18 - Variational Autoencoders (VAEs)
-tldr: "Short text to discribe what this lecture is about."
+tldr: "In this lecture we dive into Variational Autoencoders or VAEs. We
+start by looking at autoencoders and their ability to reduce dimensions of
+inputs into a latent space. We'll see why they don't make good generative 
+models and then generalize to VAEs. We'll finish with some examples of 
+generative output of VAEs."
 thumbnail: /_images/thumbnails/ds598-vaes.png
 hide_from_announcments: true
 links: 
