@@ -11,8 +11,9 @@ permalink: /project/
 * [Project Deliverables](#project-deliverables)
   * [Proposal -- Feb 16](#proposal)
   * [Midpoint Checkin -- Mar 29](#mid-project-checkin)
-  * [Video -- Apr 30](#video)
   * [Final Report -- Apr 30](#final-report-and-presentation)
+  * [Video -- Apr 30](#video)
+  * [Project Code Repository](#project-code-repository)
 
 Here's your chance to apply the deep learning techniques you learn in this 
 class to real world applications.
@@ -216,18 +217,7 @@ Ideally, at this point you have:
 
 You don't necessarily have to cover all these items completely (hence the word "Ideally"), but you are highly encouraged to show some progress on each item.
 
-### Video
-**Deadline:** April 30, Tuesday 11:59 PM
 
-Create a 3-4 minute video (no more than 4 minutes) that describe your
-project. Generally, the video should include:
-1. Introduce the team
-2. State the problem or application and why it is important
-3. Provide the approach taken, models and methods used
-4. Show the results and how evaluated
-
-When complete, upload your video to the BU MyMedia [channel for this semester's
-projects](https://mymedia.bu.edu/channel/channelid/340650712).
 
 ### Final Report and Presentation
 **Deadline:** April 30, Tuesday 11:59 PM, with a late deadline (with no penalty)
@@ -247,6 +237,19 @@ The report should include:
 * **Evaluation Results**
 * **Conclusion**
 * **References**
+
+### Video
+**Deadline:** April 30, Tuesday 11:59 PM
+
+Create a 3-4 minute video (no more than 4 minutes) that describe your
+project. Generally, the video should include:
+1. Introduce the team
+2. State the problem or application and why it is important
+3. Provide the approach taken, models and methods used
+4. Show the results and how evaluated
+
+When complete, upload your video to the BU MyMedia [channel for this semester's
+projects](https://mymedia.bu.edu/channel/channelid/340650712).
 
 ### Project Code Repository
 
