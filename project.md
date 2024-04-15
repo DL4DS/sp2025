@@ -226,7 +226,31 @@ project. Generally, the video should include:
 3. Provide the approach taken, models and methods used
 4. Show the results and how evaluated
 
-### Final Report and Presentation
-**Deadline:** April 30, Tuesday 11:59 PM
+When complete, upload your video to the BU MyMedia [channel for this semester's
+projects](https://mymedia.bu.edu/channel/channelid/340650712).
 
-Instructions to be provided.
+### Final Report and Presentation
+**Deadline:** April 30, Tuesday 11:59 PM, with a late deadline (with no penalty)
+of May 7, 11:59 PM.
+
+Here's the project report template [pdf](/static_files/project/project_report.pdf) and the source
+[$$\LaTeX$$](/static_files/project/project_report.tex).
+
+The report should include:
+* **Project Title**
+* **Team Members** (From one to three people.)
+* **Abstract**
+* **Introduction** 
+* **Related Work** 
+* **Approach (or Methodology)** 
+* **Datasets** 
+* **Evaluation Results**
+* **Conclusion**
+* **References**
+
+### Project Code Repository
+
+As part of your final project, you should have your project code checked into 
+a github repo and include the link to your project repo in your report. 
+
+The repo should be documented enough so that someone can reproduce your work.
