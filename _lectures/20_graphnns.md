@@ -2,15 +2,13 @@
 type: lecture
 date: 2024-04-16T15:30:00-5:00
 title: 20 -- Graph Neural Networks
-tldr: "Short text to discribe what this lecture is about."
-thumbnail: /static_files/presentations/boston-univ-small.gif
+tldr: "In this lecture we introduce graph neural networks, define matrix
+representations, how to do graph level classification and regression, and 
+how to define graph convolutional network layers."
+thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
-    - url: https://google.com
+    - url: /static_files/lectures/20_graph_neural_networks.pdf
       name: slides
 ---
 **Suggested Readings:**
