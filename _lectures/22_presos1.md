@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-04-25T15:30:00-5:00
-title: 23 - Final Project Presentations
+title: 22 - Final Project Presentations
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /static_files/presentations/boston-univ-small.gif
 hide_from_announcments: true
