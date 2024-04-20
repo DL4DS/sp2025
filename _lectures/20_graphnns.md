@@ -10,6 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/20_graph_neural_networks.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 13
