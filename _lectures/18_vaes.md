@@ -16,3 +16,5 @@ links:
 **Suggested Readings:**
 - [Understanding Variational Autoencoders](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 - UDL Chapter 17 (optional)
+
+Unfortunately the lecture recorded with no sound, so there is no lecture recording.
