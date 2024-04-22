@@ -254,8 +254,8 @@ projects](https://mymedia.bu.edu/channel/channelid/340650712).
 To make your screen recordings, one free and easy option is to use Kaltura
 Capture, which is integrated with BU's MyMedia streaming media solution.
 
-Instruction video is here, including how to download the app:
-https://mymedia.bu.edu/media/t/1_rouozaeh
+Instruction video is [here](https://mymedia.bu.edu/media/t/1_rouozaeh),
+including how to download the app.
 
 ### Project Code Repository
 
