@@ -251,6 +251,12 @@ project. Generally, the video should include:
 When complete, upload your video to the BU MyMedia [channel for this semester's
 projects](https://mymedia.bu.edu/channel/channelid/340650712).
 
+To make your screen recordings, one free and easy option is to use Kaltura
+Capture, which is integrated with BU's MyMedia streaming media solution.
+
+Instruction video is here, including how to download the app:
+https://mymedia.bu.edu/media/t/1_rouozaeh
+
 ### Project Code Repository
 
 As part of your final project, you should have your project code checked into 
