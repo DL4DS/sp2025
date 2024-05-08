@@ -4,6 +4,12 @@ title: Project
 permalink: /project/
 ---
 
+Projects are now posted!
+
+<!-- In your navigation file or layout -->
+<a href="{{ '/projects/' | relative_url }}">Project Papers</a>
+
+
 **Table of Contents:**<br>
 * [Project Categories](#project-categories)
 * [Project Topics](#project-topics)
