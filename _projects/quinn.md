@@ -1,6 +1,6 @@
 ---
-authors: ["First1 Last1", "First2 Last2"]
-title: Awesome Project Title
+authors: ["Kevin Quinn"]
+title: An Exploration of the effects of Spurious Correlations in Deep Learning
 paper_url: /url.html
 video_url: /url.html
 slides_url: /url.html

@@ -16,8 +16,11 @@ layout: default
                 {% endunless %}
             {% endfor %}
         {% endfor %}
-        {% for tag in all_tags | split: "," | sort %}
-            <option value="{{ tag }}">{{ tag }}</option>
+        {% assign all_tags_array = all_tags | split: "," | sort %}
+        {% for tag in all_tags_array %}
+            {% unless tag == "" %}
+                <option value="{{ tag }}">{{ tag }}</option>
+            {% endunless %}
         {% endfor %}
     </select>
 </div>
@@ -25,7 +28,7 @@ layout: default
 <div class="papers-container">
 
 {% for project in site.projects %}
-<div class="project-tile" data-tags="{{ project.tags | join: ',' }}">
+<div class="paper-tile" data-tags="{{ project.tags | join: ',' }}">
     <h2>{{ project.title }}</h2>
     <p><i>{{ project.authors | join: ", " }}</i></p>
     <p>{{ project.content | markdownify }}</p>
