@@ -34,13 +34,13 @@ layout: default
     <p>{{ project.content | markdownify }}</p>
     <ul>
         {% if project.paper_url %}
-        <li><a href="{{ project.paper_url }}">Read Paper</a></li>
+        <li><a href="{{ project.paper_url | prepend: site.baseurl}}">Read Paper</a></li>
         {% endif %}
         {% if project.video_url %}
-        <li><a href="{{ project.video_url }}">Watch Lecture</a></li>
+        <li><a href="{{ project.video_url }}">Watch Video</a></li>
         {% endif %}
         {% if project.slides_url %}
-        <li><a href="{{ project.slides_url }}">View Slides</a></li>
+        <li><a href="{{ project.slides_url | prepend: site.baseurl}}">View Slides</a></li>
         {% endif %}
     </ul>
     <p><strong>Tags:</strong> {{ project.tags | join: ", " }}</p>

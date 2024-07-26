@@ -1,10 +1,13 @@
 ---
 authors: ["Savannah Wang", "Yi Liu", "Zhuoyan Ma"]
 title: Fake news detection using augmented LLM 
-paper_url: /url.html
-video_url: /url.html
-slides_url: "https://drive.google.com/file/d/1cbpw41v0PYWpUL3FXSx6gFdg_nxKkPIu/view?usp=sharing"
+paper_url: /static_files/projects/liu_fake_news.pdf
+video_url: "https://mymedia.bu.edu/media/t/1_dizapptj"
+slides_url: /static_files/projects/liu_fake_news_preso.pdf
 tags: ["LLM", "tag2"]
 ---
 
-Abstract here.
+The proliferation of fake news in modern media compromises information integrity.
+By incorporating professionally verified fact-checking data, our project seeks to leverage
+Large Language Models’ extensive knowledge, reasoning abilities and accessibility to
+external sources to identify and combat fake news effectively.
