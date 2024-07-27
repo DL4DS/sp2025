@@ -5,6 +5,14 @@ layout: default
 {{ page.content | markdownify }}
 
 <div>
+    <img src="{{ site.baseurl }}/_images/students1.jpeg" alt="Students Group 1" style="width: 40%; height: auto;">
+    <img src="{{ site.baseurl }}/_images/students2.jpeg" alt="Students Group 2" style="width: 40%; height: auto;">
+</div>
+
+<!-- Insert vertical space here -->
+<div style="height: 20px;"></div>
+
+<div>
     <label for="tag-filter">Filter by Tag:</label>
     <select id="tag-filter" onchange="filterPapers()">
         <option value="">All Tags</option>
