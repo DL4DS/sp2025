@@ -4,11 +4,7 @@ title: Project
 permalink: /project/
 ---
 
-Projects are now posted!
-
-<!-- In your navigation file or layout -->
-<a href="{{ '/projects/' | relative_url }}">Project Papers</a>
-
+Projects are now [posted]({{ "/miniconf.html" | prepend: site.baseurl }})!
 
 **Table of Contents:**<br>
 * [Project Categories](#project-categories)
