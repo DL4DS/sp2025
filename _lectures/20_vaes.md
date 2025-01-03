@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-09T15:30:00-5:00
+date: 2025-04-03T15:30:00-5:00
 title: 18 - Variational Autoencoders (VAEs)
 tldr: "In this lecture we dive into Variational Autoencoders or VAEs. We
 start by looking at autoencoders and their ability to reduce dimensions of
@@ -16,5 +16,3 @@ links:
 **Suggested Readings:**
 - [Understanding Variational Autoencoders](https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73)
 - UDL Chapter 17 (optional)
-
-Unfortunately the lecture recorded with no sound, so there is no lecture recording.

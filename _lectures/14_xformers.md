@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2024-03-05T15:30:00-5:00
-title: 12 - Transformers
+date: 2025-03-18T15:30:00-5:00
+title: 12 - Transformers Part 1
 tldr: "In this lecture we cover the transformer architecture, starting with the
 motivation that required a new type of model, the concept and implementation of
 self-attention and then the full transformer architecture for encoder, decoder
@@ -11,9 +11,9 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/12_transformers_v3_export.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_r59pkzbo
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_r59pkzbo
+#      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 12
-- Optional [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+- Optional: [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
