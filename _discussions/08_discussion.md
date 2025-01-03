@@ -1,6 +1,6 @@
 ---
 type: discussion
-date: 2024-04-03W11:15:00-12:05&&15:35:00-16:25
+date: 2025-03-21W11:15:00-12:05&&15:35:00-16:25
 title: "Discussion_08 - Huggingface, ViT, CLIP, Kosmos2"
 tldr: "Huggingface Transformers, Vision Transformers (ViT), CLIP, Kosmos2."
 thumbnail: /static_files/presentations/boston-univ-small.gif

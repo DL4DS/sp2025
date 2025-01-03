@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-02-11T15:30:00-5:00
-title: 07a - Gradients and Backpropagation
+title: 07 - Gradients and Backpropagation
 tldr: "In this lecture we show how to efficienctly calculate gradients over
 more complex functions like deep neural networks using backpropagation. We
 also show an example simple implementation in the accompanying Jupyter notebook."

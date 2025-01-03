@@ -1,6 +1,6 @@
 ---
 type: discussion
-date: 2024-04-10W11:15:00-12:05&&15:35:00-16:25
+date: 2025-04-04W11:15:00-12:05&&15:35:00-16:25
 title: "Discussion_09 - VAEs, and GANs"
 tldr: "Code examples for VAEs, and GANs."
 thumbnail: /static_files/presentations/boston-univ-small.gif

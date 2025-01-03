@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-04-08T15:30:00-5:00
-title: 19 -- Diffusion Models
+date: 2025-04-10T15:30:00-5:00
+title: 21 -- Diffusion Models
 tldr: "Short text to discribe what this lecture is about."
 thumbnail: /_images/thumbnails/ds598-diffusion.png
 hide_from_announcments: true

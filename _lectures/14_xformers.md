@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-18T15:30:00-5:00
-title: 12 - Transformers Part 1
+title: 14 - Transformers Part 1
 tldr: "In this lecture we cover the transformer architecture, starting with the
 motivation that required a new type of model, the concept and implementation of
 self-attention and then the full transformer architecture for encoder, decoder
