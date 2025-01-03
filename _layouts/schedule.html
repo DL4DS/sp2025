@@ -6,6 +6,14 @@ layout: default
     <h1 class="post-title">Schedule</h1>
 </header>
 
+<div class="filter-options">
+    <label><input type="checkbox" id="lectures" checked> Lectures</label>
+    <label><input type="checkbox" id="discussions" checked> Discussions</label>
+    <label><input type="checkbox" id="assignments" checked> Assignments</label>
+    <!-- <label><input type="checkbox" id="due-dates" checked> Due Dates</label> -->
+    <label><input type="checkbox" id="raw-events" checked> Other Events</label>
+</div>
+
 {{ content }}
 
 <div class="home" style="font-size: 0.8em;">
@@ -17,19 +25,89 @@ layout: default
             <div class="col col-4">Course Material</div>
         </li>
         
+        <!--creates a new variable all_assignment_dues which is a list of due_event
+         properties from the site.assignments collection-->
         {% assign all_assignment_dues = site.assignments | map: "due_event" %}
 
+        <!--initializes the all_events variable by concatenating the site.events
+         collection with the site.lectures collection-->
         {% assign all_events = site.events | concat: site.lectures %}
+
+        <!--adds the site.discussions collection to the all_events list.-->
         {% assign all_events = all_events | concat: site.discussions %}
+
+        <!--adds the site.assignments collection to the all_events list.-->
         {% assign all_events = all_events | concat: site.assignments %}
+
+        <!--adds the all_assignment_dues list to the all_events list.-->
         {% assign all_events = all_events | concat: all_assignment_dues %}
+
+        <!--sorts the all_events list by the date property.-->
         {% assign all_events_sorted = all_events | sort: 'date' %}
 
         {% for event in all_events_sorted %}
-        <li class="table-row table-row-{{ event.type}}">
+        <li class="table-row \
+                   table-row-{{ event.type}} \
+                   event-item \
+                   {% if event.type == 'lecture' %}lecture \
+                   {% elsif event.type == 'discussion' %}discussion \
+                   {% elsif event.type == 'assignment' %}assignment \
+                   {% elsif event.type == 'due' %}due \
+                   {% else %}raw-event \
+                   {% endif %}">
             {% include schedule_row_{{ event.type }}.html event=event %}
         </li>
         {% endfor %}
 
     </ul>
 </div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const checkboxes = document.querySelectorAll('.filter-options input[type="checkbox"]');
+
+        // Load saved checkbox states from localStorage
+        checkboxes.forEach(checkbox => {
+            const savedState = localStorage.getItem(checkbox.id);
+            if (savedState !== null) {
+                checkbox.checked = JSON.parse(savedState);
+            }
+        });
+
+        // Add event listeners to save checkbox states to localStorage
+        checkboxes.forEach(checkbox => {
+            checkbox.addEventListener('change', function() {
+                localStorage.setItem(checkbox.id, checkbox.checked);
+                filterEvents();
+            });
+        });
+    
+        function filterEvents() {
+            const lecturesChecked = document.getElementById('lectures').checked;
+            const discussionsChecked = document.getElementById('discussions').checked;
+            const assignmentsChecked = document.getElementById('assignments').checked;
+            // const dueDatesChecked = document.getElementById('due-dates').checked;
+            const otherEventsChecked = document.getElementById('raw-events').checked;
+    
+            document.querySelectorAll('.event-item').forEach(item => {
+                const isLecture = item.classList.contains('lecture');
+                const isDiscussion = item.classList.contains('discussion');
+                const isAssignment = item.classList.contains('assignment');
+                const isDueDate = item.classList.contains('due');
+                const isOtherEvent = item.classList.contains('raw-event');
+    
+                if ((isLecture && lecturesChecked) || 
+                    (isDiscussion && discussionsChecked) ||
+                    (isAssignment && assignmentsChecked) || 
+                    (isDueDate && assignmentsChecked) || 
+                    (isOtherEvent && otherEventsChecked)) {
+                    item.style.display = '';
+                } else {
+                    item.style.display = 'none';
+                }
+            });
+        }
+    
+        filterEvents(); // Initial call to set the correct visibility on page load
+    });
+</script>
