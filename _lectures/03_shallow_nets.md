@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-25T15:30:00-5:00
+date: 2025-01-28T15:30:00-5:00
 title: 03 - Shallow Networks
 tldr: "In this lecture we consider networks with one layer of hidden units
 and explore their representational power."
@@ -9,8 +9,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/03_shallow_networks_v02.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_hiqqtfqp
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_hiqqtfqp
+#      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 3

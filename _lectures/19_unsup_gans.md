@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-04-04T15:30:00-5:00
+date: 2025-04-01T15:30:00-5:00
 title: 17 -- Unsupervised Learning and GANs
 tldr: "In this lecture we revisit the concept of unsupervised learning in the
 context of generative models. 
@@ -11,8 +11,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/17_unsup_learning_gan_v2_1.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_11s31rno
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_11s31rno
+#      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapters 14 and 15

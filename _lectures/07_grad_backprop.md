@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-02-08T15:30:00-5:00
+date: 2025-02-11T15:30:00-5:00
 title: 07a - Gradients and Backpropagation
 tldr: "In this lecture we show how to efficienctly calculate gradients over
 more complex functions like deep neural networks using backpropagation. We
@@ -10,14 +10,10 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/07a_gradients_v02.pdf
       name: slides
-    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/lecture/7_Backprop_with_Micrograd_lite_pt1.ipynb
-      name: jupyter notebook
-    - url: https://mymedia.bu.edu/media/t/1_qsg5byuq
-      name: Lecture Part 1 - Scalar Gradient Descent
-    - url: https://mymedia.bu.edu/media/t/1_7skeo5p5
-      name: Lecture Part 2 - Review Jupyter Notebook
-    - url: https://mymedia.bu.edu/media/t/1_0j9e72b7
-      name: Lecture Part 3 - Matrix Gradient Descent
+#    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/lecture/7_Backprop_with_Micrograd_lite_pt1.ipynb
+#      name: jupyter notebook
+#    - url: https://mymedia.bu.edu/media/t/1_qsg5byuq
+#      name: Lecture Part 1 - Scalar Gradient Descent
 ---
 **Suggested Readings:**
 - UDL Sections 7.1 - 7.4

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-03-07T15:30:00-5:00
+date: 2025-03-20T15:30:00-5:00
 title: 13 - Transformers Part 2
 tldr: "In this lecture we continue to review the transformer architecture.
 We continue the discussion of decoders and encoder-decoder architectures, 
@@ -10,8 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/13_transformers_part2_v2.pdf
       name: slides
-    - url: https://mymedia.bu.edu/media/t/1_m9hhz175
-      name: lecture recording
+#    - url: https://mymedia.bu.edu/media/t/1_m9hhz175
+#      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 12
