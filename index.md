@@ -2,24 +2,33 @@
 layout: home
 ---
 
-**Lectures:** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
-**Location:** CAS 208
+**Lectures (A1):** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
+**Location:** SAR 101 (635 Commonwealth Ave)
 
-**Discussion Session I:** Wednesdays, 11:15am -- 12:05pm<br>
-**Location:** CDS 164
+**Discussion Session A2:** Fridays, 10:10am -- 11:00am<br>
+**Location:** MUG 203 (771 Commonwealth Ave)
 
-**Discussion Session II:** Wednesdays, 3:35pm -- 4:25pm<br>
-**Location:** CDS 1526
+**Discussion Session A3:** Fridays, 11:15am -- 12:05pm<br>
+**Location:** CDS 365 (665 Commonwealth Ave)
+
+**Discussion Session A4:** Fridays, 12:20pm -- 1:10pm<br>
+**Location:** FLR 122 (808 Commonwealth Ave)
+
+**Discussion Session A5:** Fridays, 1:25pm -- 2:15pm<br>
+**Location:** MUG 203 (771 Commonwealth Ave)
+
 
 **Instructor:** Thomas Gardos
 * Office: CDS 1623
-* Office Hours: Fridays, 1:30 -- 3:30pm on Zoom (see Piazza) and on demand. E-mail for appointment.
+* Office Hours: Tuesdays and Thursdays, 1:30 -- 3:30pm
 * email: tgardos \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Xavier Thomas
-* Office Hours: Mondays, 3:00pm -- 5:00pm
-* Office Hours Location: CDS, 16th Floor
+* Office Hours: TBD
+* Office Hours TBD
 * email: xthomas \<at\> bu \<dot\> edu
+
+**Course Assistant:** TBD
 
 ## Course Description
 

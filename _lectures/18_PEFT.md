@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-03-27T15:30:00-5:00
-title: 16 - Parameter Efficient Fine Tuning
+date: 2025-04-01T15:30:00-5:00
+title: 18 - Parameter Efficient Fine Tuning
 tldr: "In this lecture we'll do a quick review of full model fine tuning
 then review the parameter efficient finetuning techniques Low Rank Adaptation and
 Prompt Tuning.,"

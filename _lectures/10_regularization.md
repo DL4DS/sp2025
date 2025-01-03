@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-02-25T15:30:00-5:00
-title: 09 - Regularization
+title: 10 - Regularization
 tldr: "We explain explicit and implicit regularization techniques and how they
 help generalize models."
 thumbnail: /_images/thumbnails/ds598-lecture-09.png

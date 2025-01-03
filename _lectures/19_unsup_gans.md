@@ -1,7 +1,7 @@
 ---
 type: lecture
-date: 2025-04-01T15:30:00-5:00
-title: 17 -- Unsupervised Learning and GANs
+date: 2025-04-03T15:30:00-5:00
+title: 19 -- Unsupervised Learning and GANs
 tldr: "In this lecture we revisit the concept of unsupervised learning in the
 context of generative models. 
 We will then dive into Generative Adversarial Networks (GANs) and their applications. 

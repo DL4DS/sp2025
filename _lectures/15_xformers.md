@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-20T15:30:00-5:00
-title: 13 - Transformers Part 2
+title: 15 - Transformers Part 2
 tldr: "In this lecture we continue to review the transformer architecture.
 We continue the discussion of decoders and encoder-decoder architectures, 
 then discuss scaling to large contexts and then tokenization and embedding."

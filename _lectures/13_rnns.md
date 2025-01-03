@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-06T15:30:00-5:00
-title: 11a - Recurrent Neural Networks
+title: 13 - Recurrent Neural Networks
 tldr: "In this lecture we introduce recurrent neural networks, starting the
 plain vanilla RNN, the problem of vanishing gradients, LSTM and GRU and batch
 normalization."

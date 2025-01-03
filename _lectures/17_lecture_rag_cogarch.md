@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-03-27T15:30:00-5:00
-title: 15 -- Improving LLM Perf
+title: 17 -- Improving LLM Perf
 tldr: "In this lecture we talk about ways to improve LLM performance short
 of retraining or finetuning. We cover more sophisticated prompt strategies,
 retrieval augmentation and cognitive architectures building systems and agents
