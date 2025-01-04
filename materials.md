@@ -12,7 +12,9 @@ Understanding Deep Learning<br>
 by Simon J.D. Prince<br>
 MIT Press, 2023
 
-Free PDF and other book material available [here](https://udlbook.github.io/udlbook/).
+Free PDF and other book material available [here](https://udlbook.github.io/udlbook/) or
+you can purchase a [hardcopy](https://bu.bncollege.com/webapp/wcs/stores/servlet/TBListView?catalogId=10001&storeId=13555&langId=-1&courseXml=<textbookorder><courses><course dept="CDS DS" num="542" sect="A1" term="W25"/></courses></textbookorder>) 
+or [ebook](https://bu.bncollege.com/webapp/wcs/stores/servlet/TBListView?catalogId=10001&storeId=13555&langId=-1&courseXml=<textbookorder><courses><course dept="CDS DS" num="542" sect="A1" term="W25"/></courses></textbookorder>).
 
 ## Additional Course Materials
 
