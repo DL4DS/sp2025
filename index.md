@@ -85,19 +85,35 @@ Students are of course free to use their own personal computer, but you will als
 ## Learning Management Software
 
 To be added.
-* Piazza
-* Gradescope
-* Blackboard
+* [Piazza]({{ site.data.urls["piazza"].url }})
+* [Gradescope]({{ site.data.urls["gradescope"].url }})
 
 ## Course Requirements
-- Homework: For the 1st half of the class we'll assign
-  Jupyter Notebook coding assignments and a few homework questions
-  approximately every week to help anchor the key concepts and python/pytorch
-  coding patterns. These will become less frequent in the 2nd half of the course
-  to allow you to concentrate and make progress on your projects.
-- A mid-term deep learning training contest
+
+### Homeworks
+
+- There will be approximately weekly assignments (usually posted on Fridays)to reinforce the key concepts and python/pytorch coding patterns. 
+- Due dates will be 7 days after the assignment is posted. 
+- A 24 hour late due date is provided for each assignment although with a 10% penalty, e.g $$P_l = 0.9 P_o$$ 
+- You'll also have 7 days after the assignment is graded to _revise and resubmit_ for up to 80% of the lost points, e.g. $$P_o + 0.8 (P_o - P_r)$$ 
+- If you were originally late, you can still revise and resubmit but the score will be $$0.9 (P_o + 0.8 (P_o - P_r))$$ 
+
+where
+- $$P_o$$ is the original score of the assignment on the due date
+- $$P_r$$ is the revised score after revising and resubmitting within 7 days of graded assignment posting
+- $$P_l$$ is the late score of the assignment after late penalty is applied
+
+### Midterm Challenge
+
+- We will assign a mid-term deep learning training contest
+- You must work individually and you will have 2 weeks to complete the assignment
+- You will be given a dataset and a task to complete
+- There will be a leaderboard and extra credit for the top 10 leaders
+
+### Final Project
 - A final project where you will apply deep learning methods to a problem or
-  application of interest to you.
+  application of interest to you. See the [Project]({{ site.baseurl }}{% link project.md %}) page for more
+  information.
 
 ## Course Assessment
 
