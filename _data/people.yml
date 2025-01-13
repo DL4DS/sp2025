@@ -9,6 +9,11 @@ teaching_assistants:
     profile_pic: /_images/pp/xavier.jpg
     webpage: https://xavierohan.github.io
     email: xthomas@bu.edu
-  - name: The AI Terrier Tutor (ChatGPT Subscription Required)
+  - name: The AI Terrier Tutor (Coming Soon)
     profile_pic: /_images/pp/Terrier_Logo.png
-    webpage: https://chat.openai.com/g/g-GcuPjBlNb-dl4ds-terrier-tutor
+    #webpage: https://chat.openai.com/g/g-GcuPjBlNb-dl4ds-terrier-tutor
+
+course_assistants:
+  - name: Hemangi Suthar
+    profile_pic: /_images/pp/hemangi.jpg
+    email: hemangis@bu.edu
