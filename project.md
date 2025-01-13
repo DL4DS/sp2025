@@ -4,7 +4,7 @@ title: Project
 permalink: /project/
 ---
 
-Projects are now [posted]({{ "/miniconf.html" | prepend: site.baseurl }})!
+<!-- Projects are now [posted]({{ "/miniconf.html" | prepend: site.baseurl }})! -->
 
 **Table of Contents:**<br>
 * [Project Categories](#project-categories)
@@ -96,71 +96,8 @@ There are places you can look to help give you ideas:
 
 In case it is helpful, here are some project ideas you can also consider:
 
-* **Class AI Tutor** *(LLM-based assistant)*
-   * This topic can incorporate multiple student projects.
-   * Enhance the current primitive class AI tutor with a customized tutor built on a "cognitive architecture"
-     framework using langchain or llamaindex, to incorporate things like retrieval augmentation based on course
-     materials. Have the tutor be socratic in style (e.g. not directly give answers but guide the user on how to
-     arrive at the answer) and reference course material and lectures in responses.
-   * Experiment and evaluate with different foundation models.
-   * In addition to the core functionality, it would be helpful to have a data collection/model improvement mode
-     where at a minimum the user can provide feedback on how helpful the response is. This can take multiple forms.
-      * Simple thumbs up or thumbs down.
-      * A more sophisticated data collection mode where the user is presented with two responses side by side and they
-        can then pick which one they find more helpful.
-   * Use the feedback data to fine-tune the model.
-   * An initial draft at a customized AI tutor is this [GitHub repo](https://github.com/DL4DS/dl4ds_tutor), currently
-     as a [Pull Request](https://github.com/DL4DS/dl4ds_tutor/pull/1).
-   * Ideally, we provide this AI tutor as a template for other instructors at BU and elsewhere.
-* **Teacher's AI Assistant** *(LLM-based assistant)*
-   * This would complement the student-facing AI tutor with an instructor-facing assistant that would give feedback
-     to the instructor on what topics the student are asking about and which ones the students might be struggling with.
-   * For both this and the above assistant, build in privacy-preserving features as necessary, so students have control
-     over privacy should they choose. The feedback to the instructor would primarily be aggregrated with no personal
-     identifying information. Work out privacy policy so that students could opt to share identity and instructors could
-     be better prepared to work with individual students.
-* **CDS Curriculum AI Assistant** *(LLM-based Assistant)*
-   * Build an LLM-based assistant that could help students navigate the CDS curriculum with tasks such as helping to
-     choose electives based on students' interests and priorities.
-   * Possibly provide feedbac to CDS administration in a privacy preserving way.
-* **CDS Building Recycling Advisor** *(Computer Vision)*
-   * A computer vision based system that directs a person as to which bin an item should be placed.
-   * Establish baselines on waste/recycle streams, contamination rates so that if/when prototypes are deployed one
-     can gauge any changes/improvements.
-* **NAACP/WGBH bias detection** *(Computer Vision, NLP)*
-  * BU Spark has a project underway with NAACP and WGBH to understand if there is bias in media reporting of minorities
-    and primarily minority neighborhoods. The work to date is using explicit mention of minority status and geographic
-    locations in the text and then applying sentiment analysis. There are two possible extensions to this work:
-    * Extend the bias analyis to any accompanying photographs to the news stories.
-    * Use LLMs and other foundation models to infer minority status and geographic location when not explicitly
-      mentioned while carefully considering the ethical implications of doing so.
-    * Use LLMs to infer more nuanced bias in the text than classical NLP techniques may uncover.
-* **Herbaria Foundation Model** *(Computer Vision, OCR, Multimodal)*
-  * An Herbarium is an institution, usually affiliated with a university or museum, that collects and catalogs plant
-    samples. The plant samples are often dried, pressed and mounted on paper with accompanying descriptive labels,
-    either handwritten or typed. Many collections, such as that of the Harvard University Herbaria go back more than
-    100 years. There has been a concerted effort over recent years to digitize the images of these plant samples to make
-    them available online. There are now millions of these digitized records online, and tens of millions of records
-    yet to be scanned but likely online in the future.
-  * BU Spark has a project underway to streamline the capture and digitization process of these herbaria plant samples.
-    Part of that effort is to implement OCR methods to speed transcription of the sample labels in english, cyrillic and
-    chinese characters.
-  * For this project you will go beyond OCR to analyze the plant samples themselves, as well as better understand all
-    content of the digitized herbaria sample.
-  * Tasks to consider in this project could include: building a plant classifier based on the labeled plant species; 
-    from the plant classification, identify possible misclassification candidates -- propose correct classification or
-    possibly identify new species; determine phenological features of the plants -- i.e. the state of any fruit or
-    flowers;
-  * Given the complexity of the plant samples themselves, would the problem warrant finetuning some kind of foundation
-    model to eventually make available to the broader scientific community?
-* **Modern Implementation of Classic Papers**
-  * What can we learn from some of the earliest papers on neural networks? For this project you will reimplement
-    some of the seminal neural networks from these papers and write an accompanying report that recasts the early 
-    work in modern nomemclature, compares and contrasts to modern networks and then perform evaluations of the network
-    training and performance. Ideally, you provide all these networks in a public GitHub repo.
-  * Early works to consider are: Perceptron by Rosenblatt, 1957; ADALINE by Widrow and Hoff, 1960; Neocognitron, by
-    Fukushima, 1980; Hopfield Networks, by John Hopfield, 1982; Boltzmann Machines by Hinton & Sejnowski, 1983, etc.
-* _more to come_
+**To be added.**
+
 
 Of course you can pursue any other ideas you have as well!
 

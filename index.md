@@ -28,7 +28,8 @@ layout: home
 * Office Hours TBD
 * email: xthomas \<at\> bu \<dot\> edu
 
-**Course Assistant:** TBD
+**Course Assistant:** Hemangi Suthar
+* email: hemangis \<at\> bu \<dot\> edu
 
 ## Course Description
 
@@ -102,9 +103,8 @@ To be added.
 
 - Final Project: 45%
 - Mid-term Project/Competition: 25%
-- Jupyter Notebooks: 15%
-- Homeworks: 10%
-- Class Participation/Attendance: 5%
+- Homeworks: 25%
+- Class Participation/Attendance/Polls: 5%
 
 
 ## Final Project
