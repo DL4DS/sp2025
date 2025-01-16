@@ -2,6 +2,13 @@
 layout: home
 ---
 
+* TOC
+{:toc}
+
+<br>
+
+## Personnel and Logistics
+
 **Lectures (A1):** Tuesdays and Thursdays, 3:30pm -- 4:45pm<br>
 **Location:** SAR 101 (635 Commonwealth Ave)
 
@@ -95,13 +102,30 @@ To be added.
 - There will be approximately weekly assignments (usually posted on Fridays)to reinforce the key concepts and python/pytorch coding patterns. 
 - Due dates will be 7 days after the assignment is posted. 
 - A 24 hour late due date is provided for each assignment although with a 10% penalty, e.g $$P_l = 0.9 P_o$$ 
-- You'll also have 7 days after the assignment is graded to _revise and resubmit_ for up to 80% of the lost points, e.g. $$P_o + 0.8 (P_o - P_r)$$ 
-- If you were originally late, you can still revise and resubmit but the score will be $$0.9 (P_o + 0.8 (P_o - P_r))$$ 
+- You'll also have 7 days after the assignment is graded to _revise and resubmit_ for up to 75% of the lost points, e.g. $$P_o + 0.75 (P_o - P_r)$$ 
+- If you were originally late, you can still revise and resubmit but the score will be $$0.9 (P_o + 0.75 (P_o - P_r))$$ 
 
 where
 - $$P_o$$ is the original score of the assignment on the due date
 - $$P_r$$ is the revised score after revising and resubmitting within 7 days of graded assignment posting
 - $$P_l$$ is the late score of the assignment after late penalty is applied
+
+### Attendance/Polls
+
+There will be (at least one) in-class Piazza poll in each lecture to:
+
+* help facilitate in-class discussion
+* serve as quick knowledge check
+
+It:
+* will be opened in class for a few minutes and then closed immediately after,
+* doubles as attendance proxy,
+* will be graded pass/fail -- basically submit to pass
+
+**You must be in class to complete the poll.**
+
+> You get four (4) absences with no excuse required as well as valid excused absences, e.g. illness.
+> Please email instructor, preferably in advance of class.
 
 ### Midterm Challenge
 
