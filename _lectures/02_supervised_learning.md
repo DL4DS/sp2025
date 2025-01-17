@@ -7,7 +7,7 @@ and illustrating with a simple example of a linear model."
 thumbnail: /_images/thumbnails/ds598-lecture-02.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/02_supervised_learning_v02.pdf
+    - url: /static_files/lectures/02_supervised_learning.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_53ttmwdg
 #      name: lecture recording
