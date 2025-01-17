@@ -9,7 +9,7 @@ based on LLMs."
 thumbnail: /_images/thumbnails/ds598-rag-cogarch.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/15_RAG_CoT.pdf
+    - url: /static_files/lectures/16_RAG_CoT.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_0woco0rx
 #      name: lecture recording

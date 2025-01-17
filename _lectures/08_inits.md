@@ -9,7 +9,7 @@ read research papers."
 thumbnail: /_images/thumbnails/ds598-lecture-07b.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/07b_initialization_v2.pdf
+    - url: /static_files/lectures/07b_initialization.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_jzamn0ol
 #      name: lecture recording

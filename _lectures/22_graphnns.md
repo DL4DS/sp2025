@@ -8,7 +8,7 @@ how to define graph convolutional network layers."
 thumbnail: /_images/thumbnails/ds598-gnn.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/20_graph_neural_networks.pdf
+    - url: /static_files/lectures/21_graph_neural_networks.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_bt7qtymk
 #      name: lecture recording

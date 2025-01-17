@@ -9,7 +9,7 @@ the modeling efficiency between deep and shallow networks."
 thumbnail: /_images/thumbnails/lecture-03-thumbnail.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/04_deep_networks_v2.pdf
+    - url: /static_files/lectures/04_deep_networks.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_krgh9894
 #      name: lecture recording
