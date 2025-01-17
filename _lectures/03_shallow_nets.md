@@ -7,7 +7,7 @@ and explore their representational power."
 thumbnail: /_images/thumbnails/ds598-lecture-03.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/03_shallow_networks_v02.pdf
+    - url: /static_files/lectures/03_shallow_networks.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_hiqqtfqp
 #      name: lecture recording

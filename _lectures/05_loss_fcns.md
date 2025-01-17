@@ -11,7 +11,7 @@ This is a key topic to aid you in applying deep learning models to new types of 
 thumbnail: /_images/thumbnails/ds598-lecture-05.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/05_loss_functions_v2.pdf
+    - url: /static_files/lectures/05_loss_functions.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_k2t4xjkd
 #      name: lecture recording

@@ -9,7 +9,7 @@ We will also discuss the challenges and limitations of GANs and some of the rece
 thumbnail: /_images/thumbnails/ds598-unsup-gans.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/17_unsup_learning_gan_v2_1.pdf
+    - url: /static_files/lectures/18_unsup_learning_gan.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_11s31rno
 #      name: lecture recording

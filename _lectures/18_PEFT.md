@@ -8,7 +8,7 @@ Prompt Tuning.,"
 thumbnail: /_images/thumbnails/ds598-peft.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/16_PEFT_of_LLMs_v2.pdf
+    - url: /static_files/lectures/17_PEFT of LLMs.pdf
       name: slides
 #    - url: https://mymedia.bu.edu/media/t/1_5nl4ew2x
 #      name: lecture recording

@@ -8,7 +8,7 @@ also show an example simple implementation in the accompanying Jupyter notebook.
 thumbnail: /_images/thumbnails/ds598-lecture-07a.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/07a_gradients_v02.pdf
+    - url: /static_files/lectures/07a_gradients.pdf
       name: slides
 #    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/lecture/7_Backprop_with_Micrograd_lite_pt1.ipynb
 #      name: jupyter notebook

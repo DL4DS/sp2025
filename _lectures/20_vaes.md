@@ -10,7 +10,7 @@ generative output of VAEs."
 thumbnail: /_images/thumbnails/ds598-vaes.png
 hide_from_announcments: true
 links: 
-    - url: /static_files/lectures/18_VAEs.pdf
+    - url: /static_files/lectures/19_VAEs.pdf
       name: slides
 ---
 **Suggested Readings:**
