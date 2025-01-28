@@ -5,7 +5,7 @@ title: 03 - Shallow Networks
 tldr: "In this lecture we consider networks with one layer of hidden units
 and explore their representational power."
 thumbnail: /_images/thumbnails/ds598-lecture-03.png
-hide_from_announcments: true
+hide_from_announcments: false
 links: 
     - url: /static_files/lectures/03_shallow_networks.pdf
       name: slides
