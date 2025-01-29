@@ -9,9 +9,9 @@ teaching_assistants:
     profile_pic: /_images/pp/xavier.jpg
     webpage: https://xavierohan.github.io
     email: xthomas@bu.edu
-  - name: The AI Terrier Tutor (Coming Soon)
+  - name: The AI Terrier Tutor (For Registered Students Only)
     profile_pic: /_images/pp/Terrier_Logo.png
-    #webpage: https://chat.openai.com/g/g-GcuPjBlNb-dl4ds-terrier-tutor
+    webpage: https://dl4ds-sp25-tutor.hf.space/
 
 course_assistants:
   - name: Hemangi Suthar
