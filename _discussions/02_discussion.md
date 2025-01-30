@@ -6,11 +6,11 @@ tldr: "Running Jobs, Structuring Code, and Examples to try out qsub and qrsh. Hi
 thumbnail: /_images/thumbnails/ds598-discussion-01.png
 hide_from_announcments: true
 links: 
-    - url: static_files/discussion_slides/01/interactive_gpu_steps.md
+    - url: https://github.com/DL4DS/sp2025/tree/main/static_files/discussion_slides/01/
       name: Interactive Job (qrsh) walkthrough
-    - url: static_files/discussion_slides/01/run.sh
+    - url: https://github.com/DL4DS/sp2025/tree/main/static_files/discussion_slides/01/
       name: Non-Interactive Job (qsub) Example
-    - url: static_files/discussion_slides/01/sample_code/train.sh
+    - url: https://github.com/DL4DS/sp2025/tree/main/static_files/discussion_slides/01/sample_code/
       name: Job Array Example 
 --- 
 **Suggested Readings:**
