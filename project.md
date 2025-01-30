@@ -11,10 +11,10 @@ permalink: /project/
 * [Project Topics](#project-topics)
   * [Project Ideas](#project-ideas)
 * [Project Deliverables](#project-deliverables)
-  * [Proposal -- Feb 16](#proposal)
-  * [Midpoint Checkin -- Mar 29](#mid-project-checkin)
-  * [Final Report -- Apr 30](#final-report-and-presentation)
-  * [Video -- Apr 30](#video)
+  * [Proposal -- Mar 2](#proposal)
+  * [Midpoint Checkin -- Mar 30](#mid-project-checkin)
+  * [Final Report -- May 1](#final-report-and-presentation)
+  * [Video -- May 1](#video)
   * [Project Code Repository](#project-code-repository)
 
 Here's your chance to apply the deep learning techniques you learn in this 
@@ -105,10 +105,10 @@ Of course you can pursue any other ideas you have as well!
 
 
 ### Proposal
-**Deadline:** February 16, Friday 11:59 PM
+**Deadline:** March 2, Sunday 11:59 PM
 
-Here's a proposal template [pdf](/sp2024/static_files/project/proj_prop.pdf) and the source
-[$$\LaTeX$$](/sp2024/static_files/project/proj_prop.tex).
+Here's a proposal template [pdf]({{ site.baseurl }}/static_files/project/proj_prop.pdf) and the source
+[$$\LaTeX$$]({{ site.baseurl }}/static_files/project/proj_prop.tex).
 
 The proposal format is:
 * **Project Title**
@@ -136,13 +136,13 @@ extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 
 ### Mid-Point Check-In
-**Deadline:** March 31, Sunday 11:59 PM
+**Deadline:** March 30, Sunday 11:59 PM
 
 Prepare an update on your project status.
 
 For the format, update your project proposal with the additional information you have learned since making the proposal.
 
-If you didn't previously use the [LaTeX template](https://dl4ds.github.io/sp2024/static_files/project/proj_prop.tex),
+If you didn't previously use the [LaTeX template]({{ site.baseurl }}/static_files/project/proj_prop.tex),
 we highly recommend you do, and make sure you have content for each of the sections. Feel free to revise any content
 from your original proposal to make the update more coherent.
 
@@ -159,11 +159,10 @@ You don't necessarily have to cover all these items completely (hence the word "
 
 
 ### Final Report and Presentation
-**Deadline:** April 30, Tuesday 11:59 PM, with a late deadline (with no penalty)
-of May 7, 11:59 PM.
+**Deadline:** May 1, Thursday 11:59 PM
 
-Here's the project report template [pdf](/static_files/project/project_report.pdf) and the source
-[$$\LaTeX$$](/static_files/project/project_report.tex).
+Here's the project report template [pdf]({{ site.baseurl }}/static_files/project/project_report.pdf) and the source
+[$$\LaTeX$$]({{ site.baseurl }}/static_files/project/project_report.tex).
 
 The report should include:
 * **Project Title**
@@ -178,7 +177,7 @@ The report should include:
 * **References**
 
 ### Video
-**Deadline:** April 30, Tuesday 11:59 PM
+**Deadline:** May 1, Thursday 11:59 PM
 
 Create a 3-4 minute video (no more than 4 minutes) that describe your
 project. Generally, the video should include:
