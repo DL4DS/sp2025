@@ -2,7 +2,7 @@
 type: discussion
 date: 2025-01-30W11:15:00-12:05&&15:35:00-16:25
 title: Discussion_02 - SCC Part 2 + Common Practices in Structuring DL Code + Examples to try out qsub and qrsh
-tldr: "Running Jobs, Structuring Code, and Examples to try out qsub and qrsh"
+tldr: "Running Jobs, Structuring Code, and Examples to try out qsub and qrsh. High-level overview of different components of a deep learning project. Will go more in-depth in future discussions."
 thumbnail: /_images/thumbnails/ds598-discussion-01.png
 hide_from_announcments: true
 links: 
