@@ -1,8 +1,8 @@
-## 1. Request for an interactive session on a GPU node
+## 1. Request for an interactive session on a GPU node (wait for this to be allocated)
 ```
-qrsh -pe omp 4 -P dl4ds -l gpus=1
+qrsh -pe omp 4 -P dl4ds -l gpus=1 
 ```
-## 2. Go to your '/projectnb/ds598/students/{your_username}' directory
+## 2. Go to your '/projectnb/dl4ds/students/{your_username}' directory
 When you request an interactive session, you will be in your home directory. You would need to go to your project directory to access your files.
 
 ```
