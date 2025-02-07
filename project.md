@@ -82,7 +82,8 @@ There are places you can look to help give you ideas:
    times they are associated with new and interesting datasets. Some potential
    conferences include: 
     1. [NeurIps](https://nips.cc/),
-    2. [CVPR](https://cvpr.thecvf.com/),
+    2. [CVPR](https://cvpr.thecvf.com/)
+      - [CVPR 2024 Workshops](https://cvpr.thecvf.com/virtual/2024/events/workshop)
     3. [ICML](https://icml.cc/),
     4. [ICMLA](https://www.icmla-conference.org/),
     5. [SPIE](https://spie.org/opo/conferencedetails/applications-of-machine-learning)
@@ -96,7 +97,114 @@ There are places you can look to help give you ideas:
 
 In case it is helpful, here are some project ideas you can also consider:
 
-**To be added.**
+<details>
+  <summary><b>Smart Multimodal Classroom Video Recorder (Application)</b></summary>
+
+Classroom video recording is a common practice in many educational institutions.
+However, the current video recording systems are static systems that usually just
+record the front of the classroom in a single fixed wide angle shot.
+<br><br>
+It is much more effective to capture the full context of the classroom, such as
+the teacher's gestures, the projection screen and the chalk board when it is used.
+<br><br>
+The goal of this project is to develop a smart multimodal classroom video recording system
+that understands what the instructor is saying and interprets gestures to
+intelligently zoom and pan the video recording and compose it with the screen
+content and the whiteboard content.
+<br><br>
+Nominally, there would be three content sources:
+<ol>
+<li>The presentation content from the computer</li>
+<li>The wide angle video (or alternatively a pan-tilt-zoom camera)</li>
+<li>The audio from the instructor</li>
+</ol>
+Think of the project as building a virtual video director that can intelligently
+compose the three content sources into a single video recording.
+<br><br>
+Consider the following example scene description:
+<br>
+<ul>
+<li>Wide shot while the instructor walk to the front of the room and faces the students.</li>
+<li>As the instructor starts some welcome remarks, the wide shot zooms in on the instructor.</li>
+<li>When the instructor mentions the lecture topic, the video switches to the screen share content
+  with the instructor video shown as a sub-window overlayed on the screen content.</li>
+<li>The intructor moves to the next slide which is full of content so the video overlay is turned off.</li>
+<li>The instructor starts describing one of the concepts in more detail and moves to the chalkboard to 
+  draw a diagram. The video switches to follow the instructor and then zooms out to include the chalkboard content.</li>
+<li>etc.</li>
+</ul>
+
+In order to make these video composition decisions in real time, the system must be 
+able to anlyze:
+<ol>
+<li>The lecture slide content (OCR and content understanding)</li>
+<li>Interpret what the instructor is saying and whether she/he is referencing the lecture slide content (ASR and language understanding)</li>
+<li>Interpret gestures and understand if the instructor is writing on the chalkboard or discussing the chalkboard content. (gesture recognition, person detection, pose detection)</li>
+<li>overall scene understanding</li>
+</ol>
+
+The ds542 lecture recordings can be used as evaluation data. We can also request that the echo360 videos 
+be recorded for each lecture.
+<br><br>
+Ultimately, something like this could be integrated with an open sourcce recording platform
+like [Open Broadcaster Software](https://obsproject.com).
+</details>
+
+<details>
+  <summary><b>Scaling Laws of Large Language Models (Algorithmic)</b></summary>
+
+In 2020, Kaplan et al. [1] found that the performance of large language models
+scales with the model size and the amount of training data. History has shown
+that this was generally true over multiple generations. Although not a consensus,
+besides proportional improvement, there seemed to be evidence of emergent abilities
+after certain model sizes were reached [2]. Recently, inference time scaling has
+been deployed in so called reasoning models like GPT-o1 and DeepSeek-R1.
+<br><br>
+Why is the scaling law holding? Are there really scale points in which new
+abilities emerge? Does the quality of the benchmark and how it was used matter?
+<br><br>
+Is inference time scaling, such as Chain-of-Thought and
+reasoning models breaking the scaling laws?
+<br><br>
+Survey the literature to summarize how well the scaling law holds. Pay attention
+to the benchmarks used in the evaluations. Is there controversy around the notion
+of emergent abilities? Also survey LLM benchmarks and summarize the state of 
+these benchmarks. Are people gaming the benchmarks? What's the best way to use them?
+Are they difficult enough? 
+<br><br>
+
+Feel free to expand on these thoughts in a project proposal.
+<br><br>
+
+<ol>
+<li>J. Kaplan et al., “Scaling Laws for Neural Language Models,” Jan. 22, 2020, arXiv: arXiv:2001.08361. doi: 10.48550/arXiv.2001.08361.</li>
+<li>J. Wei et al., “Emergent Abilities of Large Language Models,” Oct. 26, 2022, arXiv: arXiv:2206.07682. doi: 10.48550/arXiv.2206.07682.</li>
+</ol>
+
+</details>
+
+<details>
+  <summary><b>Training a reasoning model</b></summary>
+
+Reasoning and chain-of-thought models have emerged as a new class of models that
+can propose a sequence of operations to solve a problem. These models are
+typically trained on a dataset of reasoning problems and their solutions.
+<br><br>
+Can you train a reasoning model for demonstration purposes with a small number of
+resources? Educate yourself and your readers about what the reasoning model training
+process is with demonstrations and examples. Make sure your model explains its
+reasoning process in its response.
+<br><br>
+Is there some additional pedagogical value in generating a sequence of reasoning
+steps? Can it help people who are trying to learn a subject or complete a task
+by illustrating what an effective process might be?
+<br><br>
+Feel free to expand on these thoughts in a project proposal.
+
+</details>
+
+<br>
+**More to be added.**
 
 
 Of course you can pursue any other ideas you have as well!
