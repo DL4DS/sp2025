@@ -44,6 +44,14 @@ You may pick one of the three following categoies of projects.
   learning algorithm. For a purely theoretical project, the output may only be
   a conference style report, but an implementation (and accompanying GitHub repo)
   may be appropriate as well.
+- **Pedagogy/Explainer Project:** Develop pedagogical content to explain a complex
+  or seemingly opaque concept in deep learning, including large language models.
+  Ideall, the content would start out explaining to a layperson and then progress
+  to more technical details. Use novel visualizations, examples and interactive
+  content to make it as engaging and accessible as possible. See for example
+  [LLM Visualization](https://bbycroft.net/llm), or the excellent explainer videos
+  of [3Blue1Brown](https://www.youtube.com/@3blue1brown) and
+  [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/featured)
 
 It's possible that your project may blend more than one category.
 
@@ -198,6 +206,17 @@ reasoning process in its response.
 Is there some additional pedagogical value in generating a sequence of reasoning
 steps? Can it help people who are trying to learn a subject or complete a task
 by illustrating what an effective process might be?
+<br><br>
+Prof. Saenko pointed out the [Aky-T1](https://novasky-ai.github.io/posts/sky-t1/)
+project in which they trained a state-of-the-art reasoning model for only $450.
+You can look at the 
+[DeepSeek-R1 Technical Report](https://api-docs.deepseek.com/news/news250120)
+for details on how they trained their reasoning model.
+<br><br>
+For this project, you don't have to find and spend the resources to train a
+state-of-the-art model, however, it would be good to implement the pipeline and 
+evaluate over a pre-trained base model to show that you are able to improve over
+the base model.
 <br><br>
 Feel free to expand on these thoughts in a project proposal.
 
