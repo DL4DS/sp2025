@@ -90,6 +90,7 @@ There are places you can look to help give you ideas:
    times they are associated with new and interesting datasets. Some potential
    conferences include: 
     1. [NeurIps](https://nips.cc/),
+      - [NeurIPS 2024 Workshops](https://neurips.cc/virtual/2024/events/workshop)
     2. [CVPR](https://cvpr.thecvf.com/)
       - [CVPR 2024 Workshops](https://cvpr.thecvf.com/virtual/2024/events/workshop)
     3. [ICML](https://icml.cc/),
