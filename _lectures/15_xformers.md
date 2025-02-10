@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-20T15:30:00-5:00
+date: 2025-03-25T15:30:00-5:00
 title: 15 - Transformers Part 2
 tldr: "In this lecture we continue to review the transformer architecture.
 We continue the discussion of decoders and encoder-decoder architectures, 
