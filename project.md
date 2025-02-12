@@ -223,6 +223,30 @@ Feel free to expand on these thoughts in a project proposal.
 
 </details>
 
+<details>
+  <summary><b>2025 IEEE Low Power Computer Vision Challenge</b></summary>
+
+<br>
+Sponsored by Qualcomm, the challenge is to develop a computer vision model that can perform well under low power constraints.
+<br><br>
+Main website: <a href="https://lpcv.ai/">https://lpcv.ai/</a>
+<br><br>
+Intro: <a href="https://lpcv.ai/2025LPCVC/introduction">https://lpcv.ai/2025LPCVC/introduction</a>
+<br><br>
+There are three tracks:
+<ol>
+<li>Image classification under various lighting conditions and formats</li>
+<li>Open-vocabulary segmentation with text prompt</li>
+<li>Monocular depth estimation</li>
+</ol>
+
+The challenge runs from March 1 - April 1 and there are prizes for the winning team.
+
+Presumably the evaluation criteria is some combination of accuracy and power measure (model complexity, execution time, etc.).
+
+</details>
+
+
 <br>
 **More to be added.**
 
