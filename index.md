@@ -16,7 +16,7 @@ layout: home
 **Location:** MUG 203 (771 Commonwealth Ave)
 
 **Discussion Session A3:** Fridays, 11:15am -- 12:05pm<br>
-**Location:** CDS 365 (665 Commonwealth Ave)
+**Location:** SAR 102 (635 Commonwealth Ave)
 
 **Discussion Session A4:** Fridays, 12:20pm -- 1:10pm<br>
 **Location:** FLR 122 (808 Commonwealth Ave)
@@ -31,8 +31,7 @@ layout: home
 * email: tgardos \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Xavier Thomas
-* Office Hours: TBD
-* Office Hours TBD
+* Office Hours: Wednesdays 1:00 -- 2:30 pm, CDS 15/16 th Floor
 * email: xthomas \<at\> bu \<dot\> edu
 
 **Course Assistant:** Hemangi Suthar

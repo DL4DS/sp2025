@@ -10,6 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/01_course_intro.pdf
       name: slides
+    - url: https://mymedia.bu.edu/media/t/1_ea2v0b3j
+      name: lecture recording
 #    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/release/nbs01/1_1_BackgroundMathematics.ipynb
 #      name: Jupyter Notebook
 ---
