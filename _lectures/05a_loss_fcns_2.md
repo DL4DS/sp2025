@@ -15,8 +15,10 @@ links:
       name: slides
     - url: https://notebooklm.google.com/notebook/fd4f7e8c-6cf8-4367-a8ca-a22ac1cdd868/audio
       name: AI Podcast
-    #- url: https://mymedia.bu.edu/media/t/1_mgd58jx3
-    #  name: lecture recording
+    - url: https://mymedia.bu.edu/media/t/1_lr4e79gm
+      name: recording 1 -- Projects
+    - url: https://mymedia.bu.edu/media/t/1_46jl5uiw
+      name: recording 2 -- Loss Functions continued
 ---
 **Suggested Readings:**
 - UDL Chapter 5

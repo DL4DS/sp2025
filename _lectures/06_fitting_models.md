@@ -11,8 +11,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/06_fitting_models.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_5kbu6znm
-#      name: lecture recording
+    - url: https://mymedia.bu.edu/media/t/1_ha9w43vh
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Chapter 6
