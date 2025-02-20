@@ -3,8 +3,7 @@ type: lecture
 date: 2025-02-20T15:30:00-5:00
 title: 08 - Initialization
 tldr: "In this lecture we talk about weight initialization and how it can impact
-the training results. We'll also go back and finish model fitting with the Adam
-optimizer. We'll also give some tips and tricks on how to efficiently scan and
+the training results. We'll also give some tips and tricks on how to efficiently scan and
 read research papers."
 thumbnail: /_images/thumbnails/ds598-lecture-07b.png
 hide_from_announcments: true
