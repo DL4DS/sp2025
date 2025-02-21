@@ -181,7 +181,6 @@ of emergent abilities? Also survey LLM benchmarks and summarize the state of
 these benchmarks. Are people gaming the benchmarks? What's the best way to use them?
 Are they difficult enough? 
 <br><br>
-
 Feel free to expand on these thoughts in a project proposal.
 <br><br>
 
