@@ -181,7 +181,6 @@ of emergent abilities? Also survey LLM benchmarks and summarize the state of
 these benchmarks. Are people gaming the benchmarks? What's the best way to use them?
 Are they difficult enough? 
 <br><br>
-
 Feel free to expand on these thoughts in a project proposal.
 <br><br>
 
@@ -244,9 +243,35 @@ The challenge runs from March 1 - April 1 and there are prizes for the winning t
 
 Presumably the evaluation criteria is some combination of accuracy and power measure (model complexity, execution time, etc.).
 
+It is competitive with Llama 3.1 405B Instruct, DeepSeek V3 and GPT-4o.
+
+There is an 8B, 70B and 405B model.
+
 </details>
 
+<details>
+  <summary><b>Instruction Tuning ala Tülu3</b></summary>
+<br>
+The Allen AI institute released a <em>fully open source</em> instruction following model called Tülu3.
+The open-source data, code and training recipes are documented and provided.
+<br><br>
+Of course with the time and resource, you won't be able to train to competitive performance, 
+but you can build the finetuning pipeline and apply it to a smaller base model (e.g. Qwen 0.5B, Llama 3.2 1B, etc.)
+with an instruction dataset of interest. An objective would be to see some 
+improvement over the base model for the relevant instruction dataset.
+<br><br>
 
+<ol>
+<li> <a href="https://allenai.org/tulu">Tülu3 Website</a> </li>
+<li> <a href="https://github.com/allenai/open-instruct">Tülu3 GitHub</a> </li>
+<li> <a href="https://arxiv.org/pdf/2411.15124">Tülu3 Technical Report</a> </li>
+<li> <a href="https://github.com/QwenLM/Qwen">Qwen Github</a> </li>
+<li> <a href="https://huggingface.co/Qwen">Qwen Website</a> </li>
+<li> <a href="https://www.llama.com/">Llama Website</a> </li>
+<li> <a href="https://huggingface.co/meta-llama">Llama HuggingFace</a> </li>
+</ol>
+
+</details>
 <br>
 **More to be added.**
 
