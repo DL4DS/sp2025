@@ -10,10 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/07a_gradients.pdf
       name: slides
-#    - url: https://github.com/DL4DS/sp2024_notebooks/blob/main/lecture/7_Backprop_with_Micrograd_lite_pt1.ipynb
-#      name: jupyter notebook
-#    - url: https://mymedia.bu.edu/media/t/1_qsg5byuq
-#      name: Lecture Part 1 - Scalar Gradient Descent
+    - url: https://mymedia.bu.edu/media/t/1_m0alffvk
+      name: lecture recording
 ---
 **Suggested Readings:**
 - UDL Sections 7.1 - 7.4
