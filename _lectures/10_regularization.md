@@ -9,8 +9,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/09_regularization.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_jkgs505n
-#      name: lecture recording
+    - url: https://mymedia.bu.edu/media/t/1_jkjyw7l2
+      name: lecture recording
 
 ---
 **Suggested Readings:**
