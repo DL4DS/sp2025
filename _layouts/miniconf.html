@@ -116,13 +116,22 @@ layout: default
     
     @media (min-width: 768px) {
         .paper-card {
-            width: calc(50% - 10px);
+            width: calc(100% - 20px);
+            max-width: 1200px;
+            margin: 0 auto 20px auto;
         }
     }
     
-    @media (min-width: 1200px) {
+    @media (min-width: 992px) {
         .paper-card {
-            width: calc(33.333% - 14px);
+            width: calc(50% - 10px);
+            margin: 0 0 20px 0;
+        }
+    }
+    
+    @media (min-width: 1400px) {
+        .paper-card {
+            width: calc(50% - 10px);
         }
     }
     
