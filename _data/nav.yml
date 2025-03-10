@@ -27,6 +27,6 @@ items:
   name: Materials
   icon_class: fas fa-book
 
-#- url: /miniconf.html
-#  name: MiniConf
-#  icon_class: fas fa-book
+- url: /miniconf.html
+  name: MiniConf
+  icon_class: fas fa-book

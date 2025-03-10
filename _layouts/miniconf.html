@@ -4,10 +4,12 @@ layout: default
 
 {{ page.content | markdownify }}
 
+<!--
 <div>
     <img src="{{ site.baseurl }}/_images/students1.jpeg" alt="Students Group 1" style="width: 40%; height: auto;">
     <img src="{{ site.baseurl }}/_images/students2.jpeg" alt="Students Group 2" style="width: 40%; height: auto;">
 </div>
+-->
 
 <!-- Insert vertical space here -->
 <div style="height: 20px;"></div>
@@ -36,11 +38,11 @@ layout: default
 <div class="papers-container">
 
 {% for project in site.projects %}
-<div class="paper-tile" data-tags="{{ project.tags | join: ',' }}">
+<div class="paper-card" data-tags="{{ project.tags | join: ',' }}">
     <h2>{{ project.title }}</h2>
-    <p><i>{{ project.authors | join: ", " }}</i></p>
-    <p>{{ project.content | markdownify }}</p>
-    <ul>
+    <p class="authors"><i>{{ project.authors | join: ", " }}</i></p>
+    <div class="paper-content">{{ project.content | markdownify }}</div>
+    <ul class="paper-links">
         {% if project.paper_url %}
         <li><a href="{{ project.paper_url | prepend: site.baseurl}}">Read Paper</a></li>
         {% endif %}
@@ -51,16 +53,106 @@ layout: default
         <li><a href="{{ project.slides_url | prepend: site.baseurl}}">View Slides</a></li>
         {% endif %}
     </ul>
-    <p><strong>Tags:</strong> {{ project.tags | join: ", " }}</p>
+    <p class="paper-tags"><strong>Tags:</strong> {{ project.tags | join: ", " }}</p>
 </div>
 {% endfor %}
 
 </div>
 
+<style>
+    .papers-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        justify-content: space-between;
+    }
+    
+    .paper-card {
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        padding: 20px;
+        margin-bottom: 20px;
+        width: 100%;
+        max-width: 1200px;
+        box-sizing: border-box;
+        transition: transform 0.3s ease;
+    }
+    
+    .paper-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    
+    .paper-card h2 {
+        margin-top: 0;
+        color: #333;
+    }
+    
+    .authors {
+        color: #666;
+        margin-bottom: 15px;
+    }
+    
+    .paper-content {
+        margin-bottom: 15px;
+    }
+    
+    .paper-links {
+        padding-left: 20px;
+    }
+    
+    .paper-links li {
+        margin-bottom: 5px;
+    }
+    
+    .paper-tags {
+        font-size: 0.9em;
+        color: #555;
+        margin-top: 15px;
+        border-top: 1px solid #eee;
+        padding-top: 10px;
+    }
+    
+    @media (min-width: 768px) {
+        .paper-card {
+            width: calc(100% - 20px);
+            max-width: 1200px;
+            margin: 0 auto 20px auto;
+        }
+    }
+    
+    @media (min-width: 992px) {
+        .paper-card {
+            width: calc(50% - 10px);
+            margin: 0 0 20px 0;
+        }
+    }
+    
+    @media (min-width: 1400px) {
+        .paper-card {
+            width: calc(50% - 10px);
+        }
+    }
+    
+    @media (max-width: 767px) {
+        .paper-card {
+            width: 100%;
+        }
+    }
+    
+    #tag-filter {
+        padding: 8px;
+        margin-bottom: 20px;
+        border-radius: 4px;
+        border: 1px solid #ddd;
+    }
+</style>
+
 <script>
     function filterPapers() {
         var selectedTag = document.getElementById('tag-filter').value;
-        var papers = document.querySelectorAll('.paper-tile');
+        var papers = document.querySelectorAll('.paper-card');
 
         papers.forEach(paper => {
             var tags = paper.getAttribute('data-tags').split(',');
