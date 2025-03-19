@@ -31,7 +31,7 @@ layout: home
 * email: tgardos \<at\> bu \<dot\> edu
 
 **Teaching Assistant:** Xavier Thomas
-* Office Hours: Wednesdays 1:00 -- 2:30 pm, CDS 15/16 th Floor
+* Office Hours: Wednesdays 9:30 -- 11:00 am, CDS 15/16 th Floor
 * email: xthomas \<at\> bu \<dot\> edu
 
 **Course Assistant:** Hemangi Suthar
