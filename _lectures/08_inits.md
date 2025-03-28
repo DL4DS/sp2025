@@ -10,13 +10,10 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/07b_initialization.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_jzamn0ol
-#      name: lecture recording
-#    - url: /static_files/lectures/07_how_to_read_paper.pdf
-#      name: how to read research papers
-#    - url: https://mymedia.bu.edu/media/t/1_mxogp2pf
-#      name: "recording - how to read research paper"
-    
+    - url: /static_files/lectures/07_how_to_read_paper.pdf
+      name: how to read research papers
+    - url: https://mymedia.bu.edu/media/t/1_nnovxevd/369280102
+      name: lecture recording    
 ---
 **Suggested Readings:**
 - UDL Sections 7.5 - 7.6
