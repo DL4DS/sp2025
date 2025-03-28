@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-03T15:30:00-5:00
+date: 2025-04-15T15:30:00-5:00
 title: 19 -- Unsupervised Learning and GANs
 tldr: "In this lecture we revisit the concept of unsupervised learning in the
 context of generative models. 

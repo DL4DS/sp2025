@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-18T15:30:00-5:00
+date: 2025-03-20T15:30:00-5:00
 title: 13 - Recurrent Neural Networks
 tldr: "In this lecture we introduce recurrent neural networks, starting the
 plain vanilla RNN, the problem of vanishing gradients, LSTM and GRU and batch
@@ -10,8 +10,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/12_recurrent_networks.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_6mp1tttq
-#      name: lecture recording
+    - url: https://mymedia.bu.edu/media/t/1_4l560aqn/369280102
+      name: lecture recording
 ---
 **Suggested Readings:**
 - [lecture slides]({{ site.baseurl }}/static_files/lectures/11a_recurrent_networks_v2.pdf)

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-03-25T15:30:00-5:00
+date: 2025-04-03T15:30:00-5:00
 title: "16 -- Vision & Multimodal Transformers"
 tldr: "In this lecture we'll cover vision and multimodal transformers as a 
 survey of three papers."
