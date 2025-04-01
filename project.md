@@ -12,7 +12,7 @@ permalink: /project/
   * [Project Ideas](#project-ideas)
 * [Project Deliverables](#project-deliverables)
   * [Proposal -- Mar 2](#proposal)
-  * [Midpoint Checkin -- Mar 30](#mid-project-checkin)
+  * [Midpoint Checkin -- April 6](#mid-project-checkin)
   * [Final Report -- May 1](#final-report-and-presentation)
   * [Video -- May 1](#video)
   * [Project Code Repository](#project-code-repository)
@@ -313,7 +313,7 @@ extension for [Visual Studio Code](https://code.visualstudio.com/).
 
 
 ### Mid-Point Check-In
-**Deadline:** March 30, Sunday 11:59 PM
+**Deadline:** April 6, Sunday 11:59 PM
 
 Prepare an update on your project status.
 
