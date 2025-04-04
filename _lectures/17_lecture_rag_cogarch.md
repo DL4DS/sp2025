@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-08T15:30:00-5:00
+date: 2025-04-10T15:30:00-5:00
 title: 17 -- Improving LLM Perf
 tldr: "In this lecture we talk about ways to improve LLM performance short
 of retraining or finetuning. We cover more sophisticated prompt strategies,
