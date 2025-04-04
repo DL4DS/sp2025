@@ -9,8 +9,8 @@ hide_from_announcments: true
 links: 
     - url: /static_files/lectures/15_vision_tranformers.pdf
       name: slides
-#    - url: https://mymedia.bu.edu/media/t/1_64ok70bo
-#      name: lecture recording
+    - url: https://mymedia.bu.edu/media/t/1_xx62jn9q/369280102
+      name: lecture recording
 ---
 **Suggested Readings:**
 - See slides for references
