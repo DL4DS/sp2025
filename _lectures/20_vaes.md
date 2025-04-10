@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2025-04-17T15:30:00-5:00
+date: 2025-04-22T15:30:00-5:00
 title: 20 - Variational Autoencoders (VAEs)
 tldr: "In this lecture we dive into Variational Autoencoders or VAEs. We
 start by looking at autoencoders and their ability to reduce dimensions of
