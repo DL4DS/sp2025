@@ -4,6 +4,58 @@ layout: default
 
 {{ page.content | markdownify }}
 
+<h1>Project Presentations</h1>
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 48%;">
+        <h2>Tuesday, April 29</h2>
+        {% assign start_time = "3:30" %}
+        {% for presentation in site.data.project_presos.tuesday %}
+            {% assign hour = start_time | split: ":" | first | plus: 0 %}
+            {% assign min = start_time | split: ":" | last | plus: 0 %}
+            {% assign end_min = min | plus: 4 %}
+            {% assign end_hour = hour %}
+            {% if end_min >= 60 %}
+                {% assign end_min = end_min | minus: 60 %}
+                {% assign end_hour = end_hour | plus: 1 %}
+            {% endif %}
+            <p style="color: #666;">{{ hour }}:{% if min < 10 %}0{% endif %}{{ min }} - {{ end_hour }}:{% if end_min < 10 %}0{% endif %}{{ end_min }} PM : 
+            <em>{{ presentation.title }}</em><br>
+            <span style="font-size: 0.9em;">-- {{ presentation.authors | join: ", " }}</span></p>
+            {% assign min = min | plus: 5 %}
+            {% if min >= 60 %}
+                {% assign min = min | minus: 60 %}
+                {% assign hour = hour | plus: 1 %}
+            {% endif %}
+            {% assign start_time = hour | append: ":" | append: min %}
+        {% endfor %}
+    </div>
+
+    <div style="width: 48%;">
+        <h2>Thursday, May 1</h2>
+        {% assign start_time = "3:30" %}
+        {% for presentation in site.data.project_presos.thursday %}
+            {% assign hour = start_time | split: ":" | first | plus: 0 %}
+            {% assign min = start_time | split: ":" | last | plus: 0 %}
+            {% assign end_min = min | plus: 4 %}
+            {% assign end_hour = hour %}
+            {% if end_min >= 60 %}
+                {% assign end_min = end_min | minus: 60 %}
+                {% assign end_hour = end_hour | plus: 1 %}
+            {% endif %}
+            <p style="color: #666;">{{ hour }}:{% if min < 10 %}0{% endif %}{{ min }} - {{ end_hour }}:{% if end_min < 10 %}0{% endif %}{{ end_min }} PM : 
+            <em>{{ presentation.title }}</em><br>
+            <span style="font-size: 0.9em;">-- {{ presentation.authors | join: ", " }}</span></p>
+            {% assign min = min | plus: 5 %}
+            {% if min >= 60 %}
+                {% assign min = min | minus: 60 %}
+                {% assign hour = hour | plus: 1 %}
+            {% endif %}
+            {% assign start_time = hour | append: ":" | append: min %}
+        {% endfor %}
+    </div>
+</div>
+
 <!--
 <div>
     <img src="{{ site.baseurl }}/_images/students1.jpeg" alt="Students Group 1" style="width: 40%; height: auto;">
