@@ -1,0 +1,72 @@
+tuesday:
+  - authors: ["Huihao Xing", "Youran Geng", "Yuhao Zhang"]
+    title: Real-Time Localized Image Enhancement via YOLOv8 and Lightweight Super Resolution Model
+
+  - authors: ["Yuchen Li", "Shiyi Chen", "Yuanchen Yin"]
+    title: AI-Based Car Crash Detection Using Deep Learning
+
+  - authors: ["Chen-Yu(Erioe) Liu", "Yuanhao Shen"]
+    title: Enhanced Relationformer for Linear Detection
+
+  - authors: ["Rishabh Reddy Suravaram", "Amruth Devineni"]
+    title: AI-Powered Storyboard Generator Using Prompt-Based Diffusion Models
+
+  - authors: ["Caslow Chien", "Serena Theobald", "Sindhuja Kumar"]
+    title: Bone fractures Graphical Chatbot
+
+  - authors: ["Ethan Chang", "Heng Chang", "Josh Yip"]
+    title: Legal Contract Dataset
+
+  - authors: ["Bhavya Surana", "Grace Chong", "William Clavier"]
+    title: Smart Multimodal Classroom Video Recorder
+
+  - authors: ["Hieu Nguyen", "Yiren Wang", "Mi-Ru Youn", "Gukai Chen"]
+    title: Machine Learning And Physics
+
+  - authors: ["Carlos Garcia", "Anthony Huang", "Daniel Strick"]
+    title: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+
+  - authors: ["Bhuvan Shivalingaiah Gowda", "Sumanth Hosdurg Kamath", "Samritha Aadhi Ravikumar"]
+    title: Cricket Commentary Generation Using LLaVA
+
+  - authors: ["Christine Sangphet", "Namika Takada", "Ann Liang"]
+    title: Deep Learning Approach on Music Recommendation System
+
+thursday:
+  - authors: ["Declan Young"]
+    title: Explaining Deepseek with Manim
+
+  - authors: ["Viktoria Zruttova", "Junhui Cho", "Cordell Cheng"]
+    title: "Enhancing AI-Generated Image Detection: A Comparative Study of CNNs, Transformers, and Contrastive Learning"
+
+  - authors: ["Ziqi Tang", "Mingyu Chen"]
+    title: "Reproduction of DeepSeek R1 Zero: A case study in Math Task"
+
+  - authors: ["Kunshu Yang", "Shiheng Xu", "Renjie Fan"]
+    title: Fine-Grained Visual Classification of Bird Species
+
+  - authors: ["Hsiang Yu Huang", "Zainab Alhaddad", "Winni Tai"]
+    title: Efficient Open-Vocabulary Models for Low-Power Computer Vision
+
+  - authors: ["Neel Gangrade", "Rachita Singh"]
+    title: EfficientMonocular Depth Estimation
+
+  - authors: ["Zachary Gentile", "Michael Krah",  "Alex Lavaee"]
+    title: "Efficient Computer Vision: Pushing the Frontier of Edge Computing"
+
+  - authors: ["Rajdeep Singh", "John Salloum", "Atul Aravind Das"]
+    title: "Predicting Alzheimer’s Disease using Structural MRIs: Activation Map Analysis of Memory Related Brain Regions" 
+
+  - authors: ["Sicheng Yi"]
+    title: "ProtMotifGen: Protein Motif Generation"
+
+  - authors: ["Eric Gulotty", "Brandon Wong", "Derek Laboy"]
+    title: "ChainThought: Enhancing Reasoning Capabilities in Language Models Through Step-by-Step Problem Solving"
+
+  - authors: ["Zhamshidbek Abdulkhamidov", "Zhansaya Taszhanova", "Saya Atchibay"]
+    title: Deep Learning for Autism Screening Using Transfer Learning on Video Data
+
+  - authors: ["Kailen Richards"]
+    title: Kilter Board Beta and Problem Generation
+
+
