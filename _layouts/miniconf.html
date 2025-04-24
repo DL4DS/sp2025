@@ -13,7 +13,7 @@ layout: default
         {% for presentation in site.data.project_presos.tuesday %}
             {% assign hour = start_time | split: ":" | first | plus: 0 %}
             {% assign min = start_time | split: ":" | last | plus: 0 %}
-            {% assign end_min = min | plus: 4 %}
+            {% assign end_min = min | plus: 5 %}
             {% assign end_hour = hour %}
             {% if end_min >= 60 %}
                 {% assign end_min = end_min | minus: 60 %}
@@ -22,7 +22,7 @@ layout: default
             <p style="color: #666;">{{ hour }}:{% if min < 10 %}0{% endif %}{{ min }} - {{ end_hour }}:{% if end_min < 10 %}0{% endif %}{{ end_min }} PM : 
             <em>{{ presentation.title }}</em><br>
             <span style="font-size: 0.9em;">-- {{ presentation.authors | join: ", " }}</span></p>
-            {% assign min = min | plus: 5 %}
+            {% assign min = min | plus: 6 %}
             {% if min >= 60 %}
                 {% assign min = min | minus: 60 %}
                 {% assign hour = hour | plus: 1 %}
@@ -37,7 +37,7 @@ layout: default
         {% for presentation in site.data.project_presos.thursday %}
             {% assign hour = start_time | split: ":" | first | plus: 0 %}
             {% assign min = start_time | split: ":" | last | plus: 0 %}
-            {% assign end_min = min | plus: 4 %}
+            {% assign end_min = min | plus: 5 %}
             {% assign end_hour = hour %}
             {% if end_min >= 60 %}
                 {% assign end_min = end_min | minus: 60 %}
@@ -46,7 +46,7 @@ layout: default
             <p style="color: #666;">{{ hour }}:{% if min < 10 %}0{% endif %}{{ min }} - {{ end_hour }}:{% if end_min < 10 %}0{% endif %}{{ end_min }} PM : 
             <em>{{ presentation.title }}</em><br>
             <span style="font-size: 0.9em;">-- {{ presentation.authors | join: ", " }}</span></p>
-            {% assign min = min | plus: 5 %}
+            {% assign min = min | plus: 6 %}
             {% if min >= 60 %}
                 {% assign min = min | minus: 60 %}
                 {% assign hour = hour | plus: 1 %}
