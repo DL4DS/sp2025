@@ -1,6 +1,6 @@
 ---
 authors: ["Sicheng Yi"]
-title: "ProtMotifGen: Protein Motif Generation"
+title: "scPerturb: single cell perturbation"
 # paper_url: /static_files/projects/yang_building_insights.pdf
 # video_url: "https://mymedia.bu.edu/media/t/1_rdtih9o5"
 # slides_url: /static_files/projects/yang_preso.pdf
@@ -8,4 +8,4 @@ tags: ["life science"]
 categories: ["Application"]
 ---
 
-This project aims to develop a conditional protein generative model which can generate novel protein with amino acid sequences and 3D structures, conditioning on a specific target motif, or a functional sub unit. It will try to combine both the existing protein generative models such as EvoDiff or ProteinMPNN,  and the protein structure prediction models, such as AlphaFold or OmegaFold, to validate the structural feasibility of the new novel protein that contains the motif. 
+This project will aim to model differential expression (DE) for the PBMC peripherial white blood molecular cell acorss the 144 biological compounds. PBMCs are a primary, disease-relevant tissue that contains multiple mature cell types (including T-cells, B-cells, Myeloid cells, and NK cells) with established markers for annotation of cell types. We want to estimate the impact of an experimental perturbation on the expression level of every 18211 gene in the transcription. 
