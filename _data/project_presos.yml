@@ -27,7 +27,7 @@ tuesday:
     title: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
 
   - authors: ["Bhuvan Shivalingaiah Gowda", "Sumanth Hosdurg Kamath", "Samritha Aadhi Ravikumar"]
-    title: Cricket Commentary Generation Using LLaVA
+    title: "DL4DS AI-Powered Cricket Commentary: Event Detection, GPT-4o Narration, and gTTS Synthesis"
 
   - authors: ["Christine Sangphet", "Namika Takada", "Ann Liang"]
     title: Deep Learning Approach on Music Recommendation System
