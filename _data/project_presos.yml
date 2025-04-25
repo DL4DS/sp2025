@@ -1,6 +1,6 @@
 tuesday:
-  - authors: ["Huihao Xing", "Youran Geng", "Yuhao Zhang"]
-    title: Real-Time Localized Image Enhancement via YOLOv8 and Lightweight Super Resolution Model
+  - authors: ["Caslow Chien", "Serena Theobald", "Sindhuja Kumar"]
+    title: Bone fractures Graphical Chatbot
 
   - authors: ["Yuchen Li", "Shiyi Chen", "Yuanchen Yin"]
     title: AI-Based Car Crash Detection Using Deep Learning
@@ -11,8 +11,8 @@ tuesday:
   - authors: ["Rishabh Reddy Suravaram", "Amruth Devineni"]
     title: AI-Powered Storyboard Generator Using Prompt-Based Diffusion Models
 
-  - authors: ["Caslow Chien", "Serena Theobald", "Sindhuja Kumar"]
-    title: Bone fractures Graphical Chatbot
+  - authors: ["Huihao Xing", "Youran Geng", "Yuhao Zhang"]
+    title: Real-Time Localized Image Enhancement via YOLOv8 and Lightweight Super Resolution Model
 
   - authors: ["Ethan Chang", "Heng Chang", "Josh Yip"]
     title: Legal Contract Dataset
