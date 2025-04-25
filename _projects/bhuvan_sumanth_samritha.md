@@ -1,6 +1,6 @@
 ---
 authors: ["Bhuvan Shivalingaiah Gowda", "Sumanth Hosdurg Kamath", "Samritha Aadhi Ravikumar"]
-title: Cricket Commentary Generation Using LLaVA
+title: "DL4DS AI-Powered Cricket Commentary: Event Detection, GPT-4o Narration, and gTTS Synthesis"
 # paper_url: /static_files/projects/yang_building_insights.pdf
 # video_url: "https://mymedia.bu.edu/media/t/1_rdtih9o5"
 # slides_url: /static_files/projects/yang_preso.pdf
