@@ -101,8 +101,8 @@ To be added.
 - There will be approximately weekly assignments (usually posted on Fridays)to reinforce the key concepts and python/pytorch coding patterns. 
 - Due dates will be 7 days after the assignment is posted. 
 - A 24 hour late due date is provided for each assignment although with a 10% penalty, e.g $$P_l = 0.9 P_o$$ 
-- You'll also have 7 days after the assignment is graded to _revise and resubmit_ for up to 75% of the lost points, e.g. $$P_o + 0.75 (P_o - P_r)$$ 
-- If you were originally late, you can still revise and resubmit but the score will be $$0.9 (P_o + 0.75 (P_o - P_r))$$ 
+- You'll also have 7 days after the assignment is graded to _revise and resubmit_ for up to 75% of the lost points, e.g. $$P_o + 0.75 (P_r - P_o)$$ 
+- If you were originally late, you can still revise and resubmit but the score will be $$0.9 (P_o + 0.75 (P_r - P_o))$$ 
 
 where
 - $$P_o$$ is the original score of the assignment on the due date
