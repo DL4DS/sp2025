@@ -1,7 +1,7 @@
 ---
 authors: ["Zhamshidbek Abdulkhamidov", "Zhansaya Taszhanova", "Saya Atchibay"]
 title: Deep Learning for Autism Screening Using Transfer Learning on Video Data
-# paper_url: /static_files/projects/yang_building_insights.pdf
+paper_url: /static_files/projects/Abdulkhamidov_et_al._-_Deep_Learning_for_Autism_Sc.pdf
 # video_url: "https://mymedia.bu.edu/media/t/1_rdtih9o5"
 # slides_url: /static_files/projects/yang_preso.pdf
 tags: ["medical", "CNN", "LSTM", "Transfer Learning"]
